@@ -2,7 +2,7 @@
 
 Research poster, NLP module, Universität Trier. Victoria Zonova, Emrehan Dalaman.
 
-A small curated knowledge graph (338 triples) built from the abstract, introduction and
+A knowledge graph (338 triples) built from the abstract, introduction and
 experimental-setup section of 23 multilingual-NLP papers (mostly TACL / CL 2025–26, plus Russian & Turkish
 benchmarks and Univ. Trier papers), used to test whether Gemma 4 E2B + KG gets close to Gemma 4 12B without it
 on 182 multiple-choice questions. Poster: [`poster/poster.pdf`](poster/poster.pdf).
@@ -25,8 +25,8 @@ on 182 multiple-choice questions. Poster: [`poster/poster.pdf`](poster/poster.pd
 | 6. Evaluate | save the checked questions as `eval/questions_final.csv`; `pip install pandas ollama`, `ollama pull gemma4:e2b` and `gemma4:12b`, then `python scripts/5_evaluate.py` (or paste it into Kaggle) | `results.csv` (put it into `eval/`) |
 | 7. Analyze | `python scripts/6_analyze.py` | all numbers on the poster: accuracy by old/new, no-answer rates, answer in the retrieved facts or not |
 
-**Fixed choices:** extractor `qwen3.5:9b` (Ollama, temperature 0, seed 42), a different family from
-the tested Gemma models; zero-shot prompt (no example); triples are plain (head, relation, tail)
+**Fixed choices:** extractor `qwen3.5:9b` (Ollama, temperature 0, seed 42),
+zero-shot prompt (no example); triples are plain (head, relation, tail)
 with 8 relations, and both head and tail must occur in the passage.
 "old" / "new" = paper first public before / after Gemma 4's knowledge cutoff (Jan 2025).
 
@@ -34,4 +34,3 @@ with 8 relations, and both head and tail must occur in the passage.
 `keep` decision), `eval/questions_final.csv` (all 221 drafted questions with `keep`),
 `eval/results.csv` (every model reply, as produced by the run).
 
-**Answer parsing:** the run parsed replies with `\b[ABCD]\b`, which read the truncated reply "... BRAVE-D | derived_from" (question 162, E2B + KG) as the answer D. `scripts/5_evaluate.py` now uses `(?<![\w-])[ABCD](?![\w-])`, and `scripts/6_analyze.py` re-parses the stored replies with it before computing all numbers (1 of 546 replies changes).
