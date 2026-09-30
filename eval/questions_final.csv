@@ -1,0 +1,222 @@
+﻿keep;question;gold;wrong1;wrong2;wrong3;paper_id;split;passage_id
+1;How many languages does the MultiBLiMP 1.0 benchmark cover?;101;100;50;200;2026.tacl-1.10;new;2026.tacl-1.10#0
+1;What is the total number of minimal pairs contained in the MultiBLiMP 1.0 benchmark?;more than 128,000;100,000;50,000;200,000;2026.tacl-1.10;new;2026.tacl-1.10#0
+1;How many languages are included in the first version of the MultiBLiMP benchmark?;101;42;128,000;2;2026.tacl-1.10;new;2026.tacl-1.10#1
+1;Which dataset was used to automatically create the MultiBLiMP benchmark alongside UniMorph?;Universal Dependencies;World Tree;Common Crawl;Wikipedia;2026.tacl-1.10;new;2026.tacl-1.10#1
+1;How many languages were Aya-expanse post-trained on?;23;140;35;101;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;What is the parameter count for all models in the Goldfish suite?;500M;1B;7B;32B;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;On which web corpus were the language frequencies computed that MultiBLiMP 1.0 uses to estimate LLM training-data distributions?;Common Crawl;Wikipedia;BookCorpus;The Pile;2026.tacl-1.10;new;2026.tacl-1.10#3
+1;How many unique Wikidata entities are linked in the MERLIN dataset?;2,500;7,000;1,000;5,000;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;Which of the following languages is included in the MERLIN dataset?;Tamil;Mandarin;Korean;Arabic;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;What is the name of the first testbed for multilingual multimodal entity recognition and linking, built from BBC news titles and images?;MERLIN;WikiDiverse;MELBench;MultiEL;2026.tacl-1.19;new;2026.tacl-1.19#1
+1;How many named entity mentions does the MERLIN dataset contain?;over 7,000;2,500;1,000;15,000;2026.tacl-1.19;new;2026.tacl-1.19#1
+0;Which year is associated with the work by De Cao regarding multilingual or multimodal entity-linking?;2022;2024;2020;2021;2026.tacl-1.19;new;2026.tacl-1.19#2
+0;Which year is associated with the work by Shi regarding multilingual or multimodal entity-linking?;2024;2022;2023;2025;2026.tacl-1.19;new;2026.tacl-1.19#2
+1;Which multilingual LLM is used as the text encoder in the modified GEMEL framework to improve performance across multiple languages?;Aya-23;mBART;Llama-2;GPT-4;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;What is the percentage score achieved by mGENRE on the Hindi language benchmark?;55.72;61.1;66.12;74.29;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;How many entities are included in the prefix trie built on Wikipedia English titles for mGENRE?;almost 6M;10M;2M;500K;2026.tacl-1.19;new;2026.tacl-1.19#4
+1;Which knowledge base do the MERLIN entity-linking baselines (mGENRE and GEMEL) use?;Wikipedia titles;DBpedia;Freebase;ConceptNet;2026.tacl-1.19;new;2026.tacl-1.19#4
+1;Which language is NOT included in the BharatBBQ benchmark?;Assamese;Kannada;Tamil;Odia;2025.tacl-1.75;new;2025.tacl-1.75#0
+1;How many examples does the BharatBBQ dataset contain in a single language?;49,108;392,864;13;8;2025.tacl-1.75;new;2025.tacl-1.75#0
+1;How many identity dimensions does the BharatBBQ benchmark cover?;13;22;8;5;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;In which total number of instances does the BharatBBQ dataset consist across all its languages?;392K;49K;22;13;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;In the BharatBBQ dataset, what is the name of the context type that is intentionally under-informative to test if a model relies on stereotypes?;Ambiguous Context;Disambiguated Context;Stereotyped Context;Fact-based Context;2025.tacl-1.75;new;2025.tacl-1.75#2
+1;According to the BharatBBQ structure, what is the correct answer for both negative and non-negative questions when the context is ambiguous?;Unknown;Stereotyped Group;Non-stereotyped Group;Random Selection;2025.tacl-1.75;new;2025.tacl-1.75#2
+0;Which Indian supermarket chain replaced the American retail chain Shop N Stop in the BharatBBQ dataset?;Big Bazaar;Walmart;Reliance Fresh;Spencer's;2025.tacl-1.75;new;2025.tacl-1.75#3
+1;How many transformation strategies were utilized to construct the BharatBBQ benchmark?;four;three;five;two;2025.tacl-1.75;new;2025.tacl-1.75#3
+1;Which BharatBBQ template category covers stereotypes such as Muslim women being portrayed as veiled and submissive?;Religion × Gender;Age × Gender;Region × Gender;Caste;2025.tacl-1.75;new;2025.tacl-1.75#4
+1;What is the name of the template category that captures age-related gendered stereotypes, such as older men as authoritative patriarchs?;Age×Gender;Religion × Gender;Tamil women;Hindu women;2025.tacl-1.75;new;2025.tacl-1.75#4
+1;What is the name of the first large-scale multi-hop QA dataset for assessing the cultural understanding of large language models grounded in Indonesian traditions?;ID-MoCQA;CulturalQA;IndoHop;MoC-Bench;2026.tacl-1.56;new;2026.tacl-1.56#0
+0;What is the name of the new large-scale multi-hop cultural QA dataset focused on Indonesia presented in this work?;ID-MoCQA;HotpotQA;2WikiMultiHopQA;MuSiQue;2026.tacl-1.56;new;2026.tacl-1.56#1
+1;How many questions are contained in the ID-MoCQA dataset?;15,590;10,000;5,000;20,000;2026.tacl-1.56;new;2026.tacl-1.56#1
+1;Which model is listed as a multilingual open model trained by Meta in 2024?;Llama3.3-70B-Instruct;Gemma2-27B- Instruct;Merak-7B;SeaLLM-7B;2026.tacl-1.56;new;2026.tacl-1.56#2
+1;How many ID-MoCQA questions were answered by the recruited human participants?;7,795;3;2024;72B;2026.tacl-1.56;new;2026.tacl-1.56#2
+1;Which two languages are used in the Meta4XNLI parallel dataset for metaphor detection and interpretation?;English and Spanish;French and German;Chinese and Japanese;Portuguese and Italian;2026.cl-1.6;old;2026.cl-1.6#0
+1;According to the Meta4XNLI study, which models outperform decoder-only LLMs in metaphor detection?;fine-tuned encoders;autoregressive models;masked models;translation-based models;2026.cl-1.6;old;2026.cl-1.6#0
+1;What is the name of the referential dataset published as a result of applying the MIPVU guidelines?;VUAM;FigLang;MIPVU;NLI;2026.cl-1.6;old;2026.cl-1.6#1
+1;In the context of Natural Language Inference (NLI) for metaphor understanding, what are the three general relationships determined between a premise and a hypothesis?;entailment, neutral, or contradiction;source, target, or domain;basic, contextual, or literal;premise, hypothesis, or artifact;2026.cl-1.6;old;2026.cl-1.6#1
+1;Which two languages are included in the Meta4XNLI dataset for metaphor detection and interpretation tasks?;Spanish (ES) and English (EN);French (FR) and German (DE);Chinese (ZH) and Japanese (JA);Italian (IT) and Portuguese (PT);2026.cl-1.6;old;2026.cl-1.6#2
+1;How many parallel sentences with metaphorical annotations does the Meta4XNLI dataset include?;13K;5K;20K;100K;2026.cl-1.6;old;2026.cl-1.6#2
+1;Which multilingual language encoder-only model obtained the best results in Sanchez-Bayona and Agerri (2022) for metaphor detection experiments?;mDeBERTa (base);XLM-RoBERTa (large);DeBERTa (base);RoBERTa (large);2026.cl-1.6;old;2026.cl-1.6#3
+1;What is the maximum sequence length used for the fine-tuning of decoders in mono- and multilingual setups?;512;128;256;1024;2026.cl-1.6;old;2026.cl-1.6#3
+1;In the Meta4XNLI metaphor-interpretation experiments with encoder-only models, which batch size gave the best development results?;8;16;32;64;2026.cl-1.6;old;2026.cl-1.6#4
+1;In the Meta4XNLI metaphor-interpretation experiments with encoder-only models, after how many epochs were the best development results obtained?;4;6;8;10;2026.cl-1.6;old;2026.cl-1.6#4
+1;In the Meta4XNLI NLI experiments with decoder-only models, what was the maximum number of new tokens?;5;3;10;20;2026.cl-1.6;old;2026.cl-1.6#5
+1;Which sampling temperature was used for decoder-only models in the Meta4XNLI NLI experiments?;0.3;0;0.7;1.0;2026.cl-1.6;old;2026.cl-1.6#5
+1;How many language combinations does the DiBiMT benchmark investigate?;eight;five;ten;three;2025.cl-2.1;old;2025.cl-2.1#0
+1;Which architecture is largely responsible for the remarkable advances in Machine Translation fluency and model efficiency over the last few decades?;Transformer;RNN;CNN;LSTM;2025.cl-2.1;old;2025.cl-2.1#1
+1;According to the DiBiMT article, which linguistic phenomenon is one of the hardest problems in NLP and a major challenge for MT systems?;lexical ambiguity;syntactic ambiguity;morphological ambiguity;pragmatic ambiguity;2025.cl-2.1;old;2025.cl-2.1#1
+1;Which commercial MT system produced the example translations in Table 1 of the DiBiMT article?;DeepL;Google Translate;Systran;Microsoft Translator;2025.cl-2.1;old;2025.cl-2.1#2
+0;What is the name of the gold evaluation benchmark mentioned in the text for studying lexical ambiguity in machine translation?;DIBIMT;WMT;IWSLT;Opus;2025.cl-2.1;old;2025.cl-2.1#2
+1;Which of the following languages is covered by the extended DiBiMT benchmark?;Slovene;Portuguese;Japanese;Czech;2025.cl-2.1;old;2025.cl-2.1#3
+1;Which language family subgrouping is NOT included among the four covered by the extended benchmark?;Italic;Sinitic;Romance;Balto-Slavic;2025.cl-2.1;old;2025.cl-2.1#3
+1;What is the name of the manually curated benchmark highlighted for studying lexical ambiguity in machine translation?;DIBIMT;WSD-Bench;MT-Eval;LexAmb;2025.cl-2.1;old;2025.cl-2.1#4
+1;In the DiBiMT study, the representations of MT encoders are evaluated on which task?;Word Sense Disambiguation (WSD);Machine Translation;Named Entity Recognition;Sentiment Analysis;2025.cl-2.1;old;2025.cl-2.1#4
+0;Which benchmark is used to evaluate the disambiguation capabilities of the entire architecture?;DIBIMT;WMT;GLUE;SuperGLUE;2025.cl-2.1;old;2025.cl-2.1#5
+0;Which open-source architecture is primarily used for the experiments described in the text?;Transformer;LSTM;CNN;BERT;2025.cl-2.1;old;2025.cl-2.1#5
+1;Which dataset is the development set for the WSD classifier trained on MT encoder representations in the DiBiMT study?;SemEval-2007;SemCor;Princeton WordNet Gloss Corpus (WNG);DIBIMT;2025.cl-2.1;old;2025.cl-2.1#6
+1;In the DiBiMT encoder analysis, on which language is the WSD accuracy of the MT encoders computed?;English;Spanish;French;German;2025.cl-2.1;old;2025.cl-2.1#6
+1;What is the Pearson correlation value measured between WSD and DIBIMT accuracy scores?;0.95;0.85;0.75;0.65;2025.cl-2.1;old;2025.cl-2.1#7
+1;Which benchmark is used to evaluate the disambiguation capabilities of the encoders and architectures?;DIBIMT;WSD;GLUE;SuperGLUE;2025.cl-2.1;old;2025.cl-2.1#7
+1;How many instruction-output pairs are included in the MURI-IT dataset?;more than 2 million;100,000;500,000;1 million;2025.tacl-1.48;old;2025.tacl-1.48#0
+1;How many languages does the MURI-IT dataset cover?;200;50;10;100;2025.tacl-1.48;old;2025.tacl-1.48#0
+1;What percentage of the most popular instruction tuning datasets is dominated by English?;73%;50%;25%;10%;2025.tacl-1.48;old;2025.tacl-1.48#1
+1;Which method generates instruction-tuning data for low-resource languages by creating English instructions with reverse instructions and translating them back?;Multilingual Reverse Instructions (MURI);Self-Instruct;Templatized NLP tasks;Human annotation;2025.tacl-1.48;old;2025.tacl-1.48#1
+1;How many instruction-output pairs are contained in the MURI-IT dataset?;2,228,499;2 million;13;200;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;Which model outperforms mT0 by over 14% in multilingual MMLU when fine-tuned with MURI-IT?;MURI-101;mT0;Aya;mT5-XXL;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;How many languages are supported by the MURI-101 model?;101;46;31;1500;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;What is the fixed learning rate used during the training of the MURI-101 model?;3e-4;0.9;0.8;5;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Which knowledge base provides the triples for FSMODQA's large-scale self-supervised pre-training data?;WikiData;DBpedia;Freebase;ConceptNet;2025.tacl-1.24;new;2025.tacl-1.24#0
+1;What is the name of the few-shot multilingual open-domain QA model trained on LLM-generated synthetic data from five examples per language?;FSMODQA;CLASS;SWIM-X;CORA;2025.tacl-1.24;new;2025.tacl-1.24#0
+1;What is the maximum number of supervised samples per language used in the FSMODQA method for few-shot multilingual open-domain QA?;5;10;20;50;2025.tacl-1.24;new;2025.tacl-1.24#1
+1;Which multilingual open-domain QA benchmark was created by translating English datasets?;MKQA;XOR-TYDI QA;MIRACL;Natural Questions;2025.tacl-1.24;new;2025.tacl-1.24#1
+1;How many languages were used in the zero-shot adaptation experiments to test FSMODQA's language adaptation ability?;15;10;20;5;2025.tacl-1.24;new;2025.tacl-1.24#2
+1;What gain does FSMODQA achieve on multilingual open-domain QA over competitive few-shot baselines?;+8.4%;+5.1%;+10.0%;+3.2%;2025.tacl-1.24;new;2025.tacl-1.24#2
+1;Which dataset provides the cross-lingual retrieval and multilingual open-retrieval QA evaluation of FSMODQA?;XOR-TYDI QA;MIRACL;MKQA;Natural Questions;2025.tacl-1.24;new;2025.tacl-1.24#3
+1;What metric is used to evaluate models on the MIRACL benchmark?;nDCG@10;Recall@5kt;BLEU;F1;2025.tacl-1.24;new;2025.tacl-1.24#3
+1;How many triplets does FSMODQA's self-supervised data construction generate for pre-training?;18,735,159;1,746,156;7M;100K;2025.tacl-1.24;new;2025.tacl-1.24#4
+1;From which checkpoint is the FSMODQA model initialized?;mT5-large;mBART-large;XLM-R large;mT5-base;2025.tacl-1.24;new;2025.tacl-1.24#4
+0;Which model achieves the best zero-shot results on MKQA in almost all languages according to the text?;FSMODQA;CORA;CLASS;MKQA;2025.tacl-1.24;new;2025.tacl-1.24#5
+1;What is the percentage improvement of FSMODQA compared to supervised CORA and CLASS on MKQA?;+2.8%;+5.0%;+1.2%;+3.5%;2025.tacl-1.24;new;2025.tacl-1.24#5
+1;Which three approaches are identified as the de facto standards for few-shot learning in the text?;Supervised fine-tuning (SFT), supervised instruction tuning (SIT), and in-context learning (ICL);Transfer learning, zero-shot learning, and few-shot learning;Pretraining, fine-tuning, and prompt engineering;SFT, SIT, and parameter-efficient fine-tuning (PEFT);2025.tacl-1.51;old;2025.tacl-1.51#0
+1;According to Razumovskaia et al.'s comparison of few-shot multilingual NLU approaches, why has in-context learning (ICL) gained popularity?;Its versatile simplicity and sample efficiency;Its ability to handle high-resource languages exclusively;Its lower computational costs compared to SFT;Its superior performance on low-resource languages;2025.tacl-1.51;old;2025.tacl-1.51#0
+1;Which encoder-decoder model with wide language coverage is named as an SFT initialization in Razumovskaia et al.'s comparison of few-shot multilingual NLU approaches?;mT5;BERT;GPT-3;RoBERTa;2025.tacl-1.51;old;2025.tacl-1.51#1
+1;In Razumovskaia et al.'s comparison of few-shot multilingual NLU approaches, what are encoder and encoder-decoder models such as XLM-R and mT5 with much wider language coverage called?;multilingually Pretrained Language Models (mPLMs);Large Language Models;Supervised Instruction-Tuning;In-Context Learning;2025.tacl-1.51;old;2025.tacl-1.51#1
+1;Which two modeling paradigms are compared in the analysis of cross-lingual capabilities for both high and low-resource languages?;SFT and ICL;SFT and SIT;ICL and PEFT;mPLMs and LLMs;2025.tacl-1.51;old;2025.tacl-1.51#2
+0;According to the text, what is the primary metric used to directly compare the different modeling paradigms in classification tasks?;automated metrics;task performance;sample efficiency;computational requirements;2025.tacl-1.51;old;2025.tacl-1.51#2
+1;Which dataset is used for evaluating intent detection and value extraction in the BANKING and HOTELS domains?;Multi3NLU++;XNLI;SQuAD;GLUE;2025.tacl-1.51;old;2025.tacl-1.51#3
+1;How many languages does the XNLI dataset provide training and evaluation data in, according to Razumovskaia et al.?;14;10;20;7;2025.tacl-1.51;old;2025.tacl-1.51#3
+1;Which dataset is used to evaluate Named Entity Recognition (NER) capabilities in 10 African languages?;MasakhaNER;Multi3NLU++;XCOPA;XNLI;2025.tacl-1.51;old;2025.tacl-1.51#4
+1;Which benchmark is the standard for evaluating multilingual language understanding capabilities?;XTREME-R;GLUE;SuperGLUE;HellaSwag;2025.tacl-1.51;old;2025.tacl-1.51#4
+1;What is the maximum number of demonstrations used for ICL across all models in the comparison?;30;50;100;200;2025.tacl-1.51;old;2025.tacl-1.51#5
+1;In the cross-lingual ICL setup of Razumovskaia et al.'s comparison of few-shot multilingual NLU approaches, in which language are the task descriptions and context written?;English;Spanish;French;German;2025.tacl-1.51;old;2025.tacl-1.51#5
+1;Which dataset collection is CorefInst trained and evaluated on?;CorefUD v1.2;OntoNotes 5.0;LitBank;PreCo;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;By how many percentage points does CorefInst outperform CorPipe24 on average across the CorefUD v1.2 languages?;2;1;5;8;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;In the CorefInst article, which model type does the term 'LLM' refer to?;decoder-only models;encoder-only models;encoder-decoder models;transformer-based models;2026.tacl-1.4;new;2026.tacl-1.4#1
+0;Which dataset was used to evaluate the CorefInst model against CorPipe24-single?;CorefUD dataset v1.2;CorefUD dataset v2.0;CorefUD dataset v1.0;CorefUD dataset v1.5;2026.tacl-1.4;new;2026.tacl-1.4#2
+0;Which model was selected for further analysis after the initial evaluation of three state-of-the-art LLMs?;CorefInst;Llama 3.1;Gemma-2;Mistral 0.3;2026.tacl-1.4;new;2026.tacl-1.4#2
+1;Which LoRA rank is used to fine-tune the LLMs in the CorefInst study?;16;8;32;64;2026.tacl-1.4;new;2026.tacl-1.4#3
+1;In CorefInst's few-shot setting, how many training examples are taken from each dataset?;5;10;20;50;2026.tacl-1.4;new;2026.tacl-1.4#3
+1;Which system, the winner of the latest multilingual coreference resolution shared task, is the main baseline for CorefInst?;CorPipe24;e2e-coref;Maverick;SpanBERT-coref;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;Which confidence level is used for the Almost Stochastic Order (ASO) test in the CorefInst study?;0.95;0.90;0.99;0.85;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;In CorefInst's initial experiments, which LLM achieved the best CoNLL score (76.15% with instruction set #5)?;Llama 3.1;Gemma 2;Mistral 0.3;Qwen 2;2026.tacl-1.4;new;2026.tacl-1.4#5
+1;What is CorefInst's average CoNLL score across the CorefUD v1.2 datasets in the comparison with CorPipe24?;77.1;68.7;75.4;81.2;2026.tacl-1.4;new;2026.tacl-1.4#5
+1;With about how much target-language text does Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings perform vocabulary expansion?;about 0.01GB;100MB;1GB;10GB;2026.cl-1.9;old;2026.cl-1.9#0
+1;How many target-language sentences per language are used for adaptation in Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings?;30K;100K;1M;10M;2026.cl-1.9;old;2026.cl-1.9#0
+1;How many typologically diverse languages are covered in Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings?;ten;five;three;two;2026.cl-1.9;old;2026.cl-1.9#1
+0;What is the approximate amount of text data assumed for the low-resource settings in the study?;0.01GB;12GB;20GB;5M tokens;2026.cl-1.9;old;2026.cl-1.9#1
+0;Which dataset is cited in the text as being used for vocabulary expansion with only 0.01GB of target language text?;Yamaguchi et al. Vocabulary Expansion of LLMs with 0.01GB of Target Language Text;Gloeckle et al. 2024;CLM;multi-token prediction objective;2026.cl-1.9;old;2026.cl-1.9#2
+1;According to Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings, which layers of the LLM work best to fine-tune with a multi-token prediction objective?;top and bottom two layers;middle layers;embedding layer;attention heads;2026.cl-1.9;old;2026.cl-1.9#2
+1;What vocabulary size does Llama2 7B have in Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings?;32K;128K;256K;64K;2026.cl-1.9;old;2026.cl-1.9#3
+1;Which dataset is used for English-to-target machine translation in Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings?;FLORES-200;CC-100;Belebele;Global MMLU;2026.cl-1.9;old;2026.cl-1.9#3
+1;How many random samples are used for the generation tasks (MT and summarization) in Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings?;500;900;14K;100K;2026.cl-1.9;old;2026.cl-1.9#4
+1;How many samples per language does the Belebele multiple-choice test set have in Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings?;900;500;14K;100K;2026.cl-1.9;old;2026.cl-1.9#4
+1;Which tokenizer is used to preprocess sentences for computing ROUGE-L?;mT5;Sentence-Piece;HuggingFace Tokenizers;PyTorch;2026.cl-1.9;old;2026.cl-1.9#5
+1;Which checkpoint is used to compute the BLEURT metric in Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings?;BLEURT-20;BLEURT-base;BLEURT-tiny;BERTScore;2026.cl-1.9;old;2026.cl-1.9#5
+1;According to Kurz et al.'s study of calibration languages in multilingual LLM pruning, in which language was calibration data mainly chosen in previous pruning research?;English;German;French;Spanish;2026.tacl-1.9;old;2026.tacl-1.9#0
+0;What type of study does the paper present regarding the comparison of different calibration languages for pruning multilingual models?;comprehensive empirical study;theoretical analysis;case study;simulation;2026.tacl-1.9;old;2026.tacl-1.9#0
+1;According to Kurz et al.'s study of calibration languages in multilingual LLM pruning, calibrating on the target language best retains which capability related to perplexity?;language modeling capabilities;reasoning capabilities;knowledge retrieval;understanding capabilities;2026.tacl-1.9;old;2026.tacl-1.9#1
+1;From which corpus are the calibration sets built in Kurz et al.'s study of calibration languages in multilingual LLM pruning?;mC4;CC-100;OSCAR;Wikipedia;2026.tacl-1.9;old;2026.tacl-1.9#2
+1;How many calibration languages are compared in Kurz et al.'s study of calibration languages in multilingual LLM pruning?;seven;five;three;twelve;2026.tacl-1.9;old;2026.tacl-1.9#2
+1;Which two post-training pruning methods are compared in Kurz et al.'s study of calibration languages in multilingual LLM pruning?;Wanda and SparseGPT;LoRA and QLoRA;Magnitude and Movement pruning;GPTQ and AWQ;2026.tacl-1.9;old;2026.tacl-1.9#2
+1;How many bootstrap samples are drawn per evaluation configuration in Kurz et al.'s study of calibration languages in multilingual LLM pruning?;10,000;5,000;1,000;100,000;2026.tacl-1.9;old;2026.tacl-1.9#3
+1;According to Ploeger et al.'s framework for evaluating on typologically diverse languages, in what should a language sample be diverse to attain generalizability?;typological properties;high computational efficiency;large vocabulary size;balanced gender distribution;2026.cl-1.7;old;2026.cl-1.7#0
+0;Which model is cited in the text as an example of pre-training language models on multiple languages simultaneously?;multilingual BERT;GPT-4;RoBERTa;DistilBERT;2026.cl-1.7;old;2026.cl-1.7#1
+1;What is the name of the Python package released with Ploeger et al.'s framework for evaluating on typologically diverse languages?;typdiv-sampling;lang-diversity;typo-checker;multilingual-tools;2026.cl-1.7;old;2026.cl-1.7#1
+1;Which typological database is the sampling frame in Ploeger et al.'s framework for evaluating on typologically diverse languages?;Grambank;Wikipedia;Common Crawl;Universal Dependencies;2026.cl-1.7;old;2026.cl-1.7#2
+0;Which dataset is mentioned in the text as containing binarized feature values suitable for calculating feature value overlap?;Grambank;Wikipedia;CommonCrawl;Treebanks;2026.cl-1.7;old;2026.cl-1.7#3
+1;In the Mean Pairwise Distance (MPD) metric of Ploeger et al.'s framework for evaluating on typologically diverse languages, how are the pairwise Euclidean distances combined?;average;sum;product;maximum;2026.cl-1.7;old;2026.cl-1.7#3
+1;Which typological database provided the 103 unnamed features that Ponti et al. (2020) used for entropy, as criticised by Ploeger et al.?;URIEL;Grambank;WALS;Glottolog;2026.cl-1.7;old;2026.cl-1.7#4
+1;How many unnamed typological features did Ponti et al. (2020) use in their entropy calculations, according to Ploeger et al.?;103;50;256;128;2026.cl-1.7;old;2026.cl-1.7#4
+1;According to 'Salute the Classic' (revisiting MT challenges in the age of LLMs), LLMs significantly improve the translation of long sentences of about how many words?;80 words;512 words;60 words;100 words;2025.tacl-1.4;old;2025.tacl-1.4#0
+1;According to 'Salute the Classic' (revisiting MT challenges in the age of LLMs), documents of up to how many words can LLMs translate?;512 words;80 words;256 words;1024 words;2025.tacl-1.4;old;2025.tacl-1.4#0
+1;Which model family is trained as a German-to-English translation system in 'Salute the Classic' (revisiting MT challenges in the age of LLMs)?;Llama2;GPT-3;BERT;T5;2025.tacl-1.4;old;2025.tacl-1.4#1
+1;Which four languages are used in 'Salute the Classic' (revisiting MT challenges in the age of LLMs) to assess pretraining resource imbalance in English-to-X translation?;German, Chinese, Ukrainian, and Hebrew;French, Spanish, Italian, and Portuguese;Japanese, Korean, Arabic, and Russian;Swedish, Norwegian, Danish, and Finnish;2025.tacl-1.4;old;2025.tacl-1.4#1
+1;Which instruction dataset is used to fine-tune the Llama2 models in 'Salute the Classic' (revisiting MT challenges in the age of LLMs)?;Alpaca;Dolly;FLAN;ShareGPT;2025.tacl-1.4;old;2025.tacl-1.4#2
+1;In 'Salute the Classic' (revisiting MT challenges in the age of LLMs), up to how many German-English translation pairs are sampled per task?;20M;300M;500k;1M;2025.tacl-1.4;old;2025.tacl-1.4#2
+1;On how many A100 GPUs are the LLMs trained in 'Salute the Classic' (revisiting MT challenges in the age of LLMs)?;32;8;16;64;2025.tacl-1.4;old;2025.tacl-1.4#3
+1;Which model underlies the COMET-DA metric used in 'Salute the Classic' (revisiting MT challenges in the age of LLMs)?;Unbabel/wmt22-comet-da;Unbabel/wmt20-comet-da;BLEURT-20;Unbabel/XCOMET-XL;2025.tacl-1.4;old;2025.tacl-1.4#3
+1;According to Bulté and Rigouts Terryn's study of LLMs and cultural values, towards the values of which four countries are LLMs systematically biased?;the Netherlands, Germany, the United States, and Japan;France, Spain, Italy, and Brazil;China, India, Russia, and South Korea;Canada, Australia, Sweden, and Norway;2026.cl-2.2;new;2026.cl-2.2#0
+1;Into how many languages were the survey items translated in Bulté and Rigouts Terryn's study of LLMs and cultural values?;11;63;10;52;2026.cl-2.2;new;2026.cl-2.2#0
+0;Which organization provided an indication of generative AI usage in the United States in 2024?;National Bureau of Economic Research;Meta;Google;Anthropic;2026.cl-2.2;new;2026.cl-2.2#1
+0;According to the text, which language functions as the native language for GPT-3.5?;English;French;Spanish;German;2026.cl-2.2;new;2026.cl-2.2#1
+1;Which approach does Bulté and Rigouts Terryn's study of LLMs and cultural values use to query the LLMs with value surveys?;black-box approach using discriminative probing;white-box approach using parameter inspection;open-source approach using code auditing;closed-source approach using API monitoring;2026.cl-2.2;new;2026.cl-2.2#2
+0;How many distinct languages were the survey questions translated into for the dataset?;10;63;100;332,640;2026.cl-2.2;new;2026.cl-2.2#3
+1;How many LLM responses does the dataset released with Bulté and Rigouts Terryn's study of LLMs and cultural values contain?;332,640;33,264;3,326,400;63,000;2026.cl-2.2;new;2026.cl-2.2#3
+1;How many questions does the current Hofstede Values Survey Module (VSM) use to calculate its dimension scores?;24;12;30;48;2026.cl-2.2;new;2026.cl-2.2#4
+1;On which scale are the questions of the Hofstede Values Survey Module answered?;5-point Likert scale;10-point scale;7-point scale;binary scale;2026.cl-2.2;new;2026.cl-2.2#4
+1;How many World Values Survey questions are selected in Bulté and Rigouts Terryn's study of LLMs and cultural values?;39;294;17;10;2026.cl-2.2;new;2026.cl-2.2#5
+1;Which wave of the World Values Survey is used in Bulté and Rigouts Terryn's study of LLMs and cultural values?;wave 7;wave 6;wave 8;wave 5;2026.cl-2.2;new;2026.cl-2.2#5
+1;For which two languages were translations of the Hofstede VSM questions missing in Bulté and Rigouts Terryn's study of LLMs and cultural values?;Dutch and Hindi;Arabic and Farsi;Turkish and Japanese;Russian and Chinese;2026.cl-2.2;new;2026.cl-2.2#6
+0;How many languages had official translations available for WVS questions?;11;9;10;12;2026.cl-2.2;new;2026.cl-2.2#6
+1;How many linguistic phenomena does the TurBLiMP benchmark cover?;16;10;20;5;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+1;How many minimal pairs are included for each linguistic phenomenon in the TurBLiMP benchmark?;1000;500;2000;100;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+1;Which benchmark, published by Warstadt et al. (2020), was the first large-scale English benchmark of linguistic minimal pairs?;BLiMP;TurBLiMP;GLUE;SuperGLUE;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+0;How many Turkish phenomena were included in the baseline tests conducted in the study?;16;13;10;20;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+1;Which model is the only masked language model among the monolingual models evaluated on TurBLiMP?;BERTurk;Goldfish;cosmosGPT;Qwen 2.5;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;How many languages does Aya Expanse support according to the text?;23;140;5;128k;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;How many academic subjects are covered in the TUMLU benchmark?;11;5;20;3;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;Which of the following languages is included in the TUMLU benchmark?;Uzbek;Persian;Arabic;Hindi;2025.acl-long.1112;new;2025.acl-long.1112#0
+0;Which specific group of languages is cited as an example of efforts to bridge the evaluation gap for a particular language?;African languages;Indo-European languages;Sino-Tibetan languages;Afroasiatic languages;2025.acl-long.1112;new;2025.acl-long.1112#1
+1;According to the TUMLU paper, which issue can be introduced when benchmarks are created by translating from Western-centric languages?;translationese;syntax errors;semantic drift;context loss;2025.acl-long.1112;new;2025.acl-long.1112#1
+1;Which benchmark is described as the first to include Uyghur, Karakalpak, Tatar, or Crimean Tatar?;TUMLU;TurkishMMLU;MMLU;GLUE;2025.acl-long.1112;new;2025.acl-long.1112#2
+1;How many questions does the TUMLU-mini version contain per subject?;100;50;200;500;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;How many example questions and answers are provided in the 5-shot prompting setting?;5;10;20;100;2025.acl-long.1112;new;2025.acl-long.1112#3
+1;Which open-source model series, evaluated at several sizes, lets the TUMLU authors observe scaling effects on multilingual performance?;Qwen2.5;Llama 3.1;Gemma 2;Gemini 1.5;2025.acl-long.1112;new;2025.acl-long.1112#3
+1;What is the name of the Russian-focused text embedding model introduced together with ruMTEB?;ru-en-RoSBERTa;ruBERT;SBERT-large-nlu-ru;ruRoBERTa;2025.naacl-long.12;old;2025.naacl-long.12#0
+1;How many categories of tasks are included in the ruMTEB benchmark?;seven;five;three;ten;2025.naacl-long.12;old;2025.naacl-long.12#0
+1;What is the name of the new Russian text-embedding benchmark introduced together with ru-en-RoSBERTa?;ruMTEB;enkodechka;MTEB;ruberttiny2;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;How many new Russian datasets does the ruMTEB benchmark release?;17;6;23;4;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;Which base model is ru-en-RoSBERTa built on?;ruRoBERTa;ruBERT;XLM-R;mE5-small;2025.naacl-long.12;old;2025.naacl-long.12#2
+1;Which batch size is used for the MLM training that adapts ru-en-RoSBERTa's extended vocabulary?;1024;256;512;2048;2025.naacl-long.12;old;2025.naacl-long.12#2
+1;Which fixed temperature is used for the InfoNCE contrastive loss when training ru-en-RoSBERTa?;0.02;0.25;0.1;0.01;2025.naacl-long.12;old;2025.naacl-long.12#3
+1;How many hard negatives per query are used in the contrastive fine-tuning of ru-en-RoSBERTa?;7;5;10;3;2025.naacl-long.12;old;2025.naacl-long.12#3
+1;How many questions are included in the KazMMLU dataset?;23,000;10,969;12,031;20,000;2025.acl-long.701;new;2025.acl-long.701#0
+1;Which of the following models is evaluated on KazMMLU?;Llama3.1;BingChat;Claude 3;Gemini;2025.acl-long.701;new;2025.acl-long.701#0
+1;What percentage of the questions in the KazMMLU dataset are written in Kazakh?;48%;52%;70%;15%;2025.acl-long.701;new;2025.acl-long.701#1
+1;Which dataset serves as the framework for the newly introduced KazMMLU?;MMLU;KazakhNLP;GLUE;SuperGLUE;2025.acl-long.701;new;2025.acl-long.701#1
+0;Which multilingual LLM is developed by Meta AI and was evaluated in the study?;Llama3.1;Qwen;GPT-4o;BLOOMZ;2025.acl-long.701;new;2025.acl-long.701#2
+0;Which two specific language contexts were identified for performance gaps in the evaluation framework?;Kazakh and Russian;English and French;Spanish and German;Arabic and Chinese;2025.acl-long.701;new;2025.acl-long.701#2
+1;How many multilingual LLMs are evaluated on KazMMLU?;27;12;35;50;2025.acl-long.701;new;2025.acl-long.701#3
+0;Which metric was used as the primary measure for evaluation?;accuracy;F1-score;BLEU;perplexity;2025.acl-long.701;new;2025.acl-long.701#3
+1;In the comparison between Kazakh and Russian performance, which language did the DeekSeek model perform best in?;Kazakh;English;Russian;French;2025.acl-long.701;new;2025.acl-long.701#4
+0;Which language is specified in the text as containing the common negation phrases used for filtering?;Kazakh;Arabic;Russian;English;2025.acl-long.701;new;2025.acl-long.701#5
+1;How many negation-related questions does the KazMMLU negation filter find?;2,554;1,277;5,108;3,950;2025.acl-long.701;new;2025.acl-long.701#5
+1;Which model learns bilingual word embeddings without word alignments from parallel or label-aligned non-parallel corpora for cross-language text classification?;BRAVE;BilBOWA;Trans-gram;BAE-cr;N16-1083;old;N16-1083#0
+0;On how many different cross-language text classification tasks did the empirical analysis show the model outperforms other systems?;three;two;five;ten;N16-1083;old;N16-1083#0
+0;Which specific task is listed in the text as one that monolingual word embeddings may not be sufficient for due to irregularities across languages?;cross-language text classification;sentiment analysis;named entity recognition;machine translation;N16-1083;old;N16-1083#1
+0;According to the text, what type of corpus is used by the 'Parallel Corpus' method to learn cross-lingual objectives?;Word-Aligned;Sentence-Aligned;Unaligned;Randomly Selected;N16-1083;old;N16-1083#1
+0;Which model is introduced in the text to learn bilingual embeddings based on the availability of different types of corpora?;BRAVE;GloVe;Word2Vec;FastText;N16-1083;old;N16-1083#2
+1;On which three cross-language text classification tasks is BRAVE evaluated?;cross-language document classification, multi-label classification and cross-language sentiment classification;machine translation, speech recognition and text summarization;named entity recognition, part-of-speech tagging and dependency parsing;question answering, machine reading comprehension and dialogue generation;N16-1083;old;N16-1083#2
+1;In BRAVE, which paragraph-embedding dimensionality is paired with 40-dimensional word embeddings?;200;128;640;80;N16-1083;old;N16-1083#3
+1;Which corpus is used for BRAVE's multi-label cross-language document classification experiments?;TED;Reuters RCV1/RCV2;Amazon product reviews;Europarl;N16-1083;old;N16-1083#3
+1;About how many sentence pairs does each English-German/French/Spanish Europarl portion used to train BRAVE contain?;1.9M;0.5M;4.2M;12M;N16-1083;old;N16-1083#4
+1;Which dimensionality do the bilingual word embeddings learned by BRAVE-S on the TED corpus have?;128;40;200;300;N16-1083;old;N16-1083#4
+1;What is the name of the dataset used for the Cross-language Sentiment Classification (CLSC) task?;CL-APR;IMDB;SST-2;Yelp;N16-1083;old;N16-1083#5
+1;Which authors created the cross-language Amazon product reviews dataset (CL-APR) used for BRAVE's sentiment experiments?;Prettenhofer and Stein;Klementiev et al.;Hermann and Blunsom;Blitzer et al.;N16-1083;old;N16-1083#5
+1;Which multilingual resource, together with Linked Open Data, is used to construct xLiD-Lexica?;multilingual Wikipedia;Common Crawl;WordNet;Europarl;L14-1232;old;L14-1232#0
+0;Which query language is used to access the SPARQL endpoint built over xLiD-Lexica?;SPARQL;SQL;Python;JavaScript;L14-1232;old;L14-1232#0
+1;According to the xLiD-Lexica paper, which data source is at the centre of the Linked Open Data cloud?;DBpedia;Freebase;YAGO;Wikidata;L14-1232;old;L14-1232#1
+0;What is the specific query language mentioned that can be used to express queries across diverse data sources stored as RDF?;SPARQL;SQL;Python;JavaScript;L14-1232;old;L14-1232#1
+1;Which toolkit is used to extract surface forms from Wikipedia for xLiD-Lexica?;Wikipedia-Miner;DBpedia-Spot;OpenRefine;NLTK;L14-1232;old;L14-1232#2
+0;How many associated resources are listed on the disambiguation page for the name 'New York'?;30;400;1,438,325;721,878;L14-1232;old;L14-1232#2
+1;How many cross-language links from English to German Wikipedia were extracted for xLiD-Lexica?;721,878;718,401;722,069;568,210;L14-1232;old;L14-1232#3
+1;Which metric represents the total number of articles in Wikipedia used in the probability calculation?;totalLinkDocCount;totalLinkOccCount;res#linkDocCount;res#linkOccCount;L14-1232;old;L14-1232#4
+1;How many news articles are included in the hand-annotated parallel corpus developed for RECSA?;300;100;500;200;L14-1746;old;L14-1746#0
+1;Which two structured knowledge bases were used for cross-lingual semantic groundings in the RECSA corpus?;English Wikipedia and DBPedia;Freebase and YAGO;Wikidata and DBpedia;English Wikipedia and Freebase;L14-1746;old;L14-1746#0
+0;Which dataset is cited as a resource for knowledge extraction from text?;DBpedia;WordNet;TAC_KBP;Wikidata;L14-1746;old;L14-1746#1
+1;According to the RECSA paper, which 2013 evaluation campaign addressed multilingual (but not cross-lingual) entity linking?;TAC KBP;SemEval;CLEF;NTCIR;L14-1746;old;L14-1746#1
+0;Which resource is proposed in the paper to serve as a standard test set for evaluating cross-lingual semantic annotation systems?;hand-labeled data set;English Wikipedia;DBpedia resources;Section 2;L14-1746;old;L14-1746#2
+0;To which resources are the words and phrases in the proposed data set indirectly linked?;DBpedia resources;French Wikipedia;German DBpedia;Section 3;L14-1746;old;L14-1746#2
+1;How many news articles per language does the RECSA resource contain?;100;50;150;200;L14-1746;old;L14-1746#3
+1;In RECSA, which language's Wikipedia serves as the hub conceptual space for the semantic annotations?;English;German;Spanish;French;L14-1746;old;L14-1746#3
+0;Which dataset was exploited to construct the xLiD-Lexica for extracting cross-lingual groundings?;multilingual Wikipedia;English Wikipedia;German Wikipedia;Spanish Wikipedia;L14-1746;old;L14-1746#4
+1;How many human annotators verified and cleaned each RECSA document?;two;one;three;five;L14-1746;old;L14-1746#4
+1;What is the XML stand-off annotation format used by RECSA?;XLike;TEI;DocBench;Linguistic Data Consortium;L14-1746;old;L14-1746#5
+1;Through which repository will the RECSA resource be available?;META-SHARE;Zenodo;Figshare;GitHub;L14-1746;old;L14-1746#5
+1;Which language is used for the Twitter data analyzed in the Zero-shot prompt-based classification study?;German;English;French;Spanish;2025.acl-srw.4;old;2025.acl-srw.4#0
+1;Which BERT-based approach is compared against the prompt-based method in the Zero-shot prompt-based classification?;fine-tuning with domain adaptation;zero-shot classification;transfer learning;pre-training on news data;2025.acl-srw.4;old;2025.acl-srw.4#0
+1;Which benchmark is cited in the Zero-shot prompt-based classification study as a comparison for in-context learning and finetuning strategies?;Min et al., 2022;Brown et al., 2020;Kalla et al., 2023;Ouyang et al., 2022;2025.acl-srw.4;old;2025.acl-srw.4#1
+1;What is the name of the project mentioned in the Zero-shot prompt-based classification study that consults survey participants weekly?;SOSEC1;LLMs;SOSEC2;ChatGPT;2025.acl-srw.4;old;2025.acl-srw.4#1
+1;How many samples were collected from the German Twitter dataset between October 2022 and May 2023 for the Zero-shot prompt-based classification study?;approximately 750,000;approx. 7000;3000;2022/2023;2025.acl-srw.4;old;2025.acl-srw.4#2
+1;Which language was the non-English dataset picked to stress-test the LLMs' capabilities in the Zero-shot prompt-based classification study?;German;English;Spanish;French;2025.acl-srw.4;old;2025.acl-srw.4#2

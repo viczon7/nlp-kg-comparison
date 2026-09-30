@@ -1,0 +1,6 @@
+# corpus PDFs (80 MB): downloaded again by scripts/1_prepare.py
+data/pdf/
+__pycache__/
+
+poster/*
+!poster/poster.pdf

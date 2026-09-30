@@ -1,0 +1,339 @@
+﻿head,relation,tail,split,papers
+MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs,introduces,MultiBLiMP 1.0,new,2026.tacl-1.10
+MultiBLiMP 1.0,covers_language,101 languages,new,2026.tacl-1.10
+MultiBLiMP 1.0,has_statistic,2 types of subject-verb agreement,new,2026.tacl-1.10
+MultiBLiMP 1.0,has_statistic,"more than 128,000 minimal pairs",new,2026.tacl-1.10
+MultiBLiMP 1.0,derived_from,Universal Dependencies,new,2026.tacl-1.10
+MultiBLiMP 1.0,evaluated_on,42 LLMs,new,2026.tacl-1.10
+MultiBLiMP 1.0,derived_from,UniMorph,new,2026.tacl-1.10
+Goldfish suite,has_statistic,models have 500M parameters,new,2026.tacl-1.10
+Goldfish suite,has_statistic,70 out of the 101 languagesin MultiBLiMP,new,2026.tacl-1.10
+Aya-expanse,covers_language,23 languages,new,2026.tacl-1.10
+Aya-expanse,has_statistic,18 of 23 languages are in MultiBLiMP 1.0,new,2026.tacl-1.10
+Gemma3,covers_language,140 languages,new,2026.tacl-1.10
+EuroLLM,covers_language,35 (mostly) European languages,new,2026.tacl-1.10
+EuroLLM,has_statistic,32 of 35 languages are present in MultiBLiMP 1.0,new,2026.tacl-1.10
+language frequencies of Kargaran et al. (2024),measured_by,3.9T token,new,2026.tacl-1.10
+language frequencies of Kargaran et al. (2024),derived_from,Common Crawl corpus,new,2026.tacl-1.10
+MERLIN: A Testbed for Multilingual Multimodal Entity Recognition and Linking,introduces,MERLIN,new,2026.tacl-1.19
+MERLIN,covers_language,Hindi,new,2026.tacl-1.19
+MERLIN,covers_language,Japanese,new,2026.tacl-1.19
+MERLIN,covers_language,Indonesian,new,2026.tacl-1.19
+MERLIN,covers_language,Vietnamese,new,2026.tacl-1.19
+MERLIN,covers_language,Tamil,new,2026.tacl-1.19
+MERLIN,evaluated_on,LLaMa-2,new,2026.tacl-1.19
+MERLIN,evaluated_on,Aya-23,new,2026.tacl-1.19
+MERLIN,has_statistic,"7,000 named entity mentions",new,2026.tacl-1.19
+MERLIN,has_statistic,"2,500 unique Wikidata entities",new,2026.tacl-1.19
+mGENRE,covers_language,Hindi,new,2026.tacl-1.19
+mGENRE,covers_language,Indonesian,new,2026.tacl-1.19
+mGENRE,covers_language,Japanese,new,2026.tacl-1.19
+mGENRE,covers_language,Vietnamese,new,2026.tacl-1.19
+mGENRE,covers_language,Tamil,new,2026.tacl-1.19
+GEMEL-Aya-23,covers_language,Hindi,new,2026.tacl-1.19
+GEMEL-Aya-23,covers_language,Indonesian,new,2026.tacl-1.19
+GEMEL-Aya-23,covers_language,Japanese,new,2026.tacl-1.19
+GEMEL-Aya-23,covers_language,Vietnamese,new,2026.tacl-1.19
+GEMEL-Aya-23,covers_language,Tamil,new,2026.tacl-1.19
+mGENRE,evaluated_on,Hindi,new,2026.tacl-1.19
+mGENRE,evaluated_on,Indonesian,new,2026.tacl-1.19
+mGENRE,evaluated_on,Japanese,new,2026.tacl-1.19
+mGENRE,evaluated_on,Vietnamese,new,2026.tacl-1.19
+mGENRE,evaluated_on,Tamil,new,2026.tacl-1.19
+GEMEL-Llama-2,evaluated_on,Hindi,new,2026.tacl-1.19
+GEMEL-Llama-2,evaluated_on,Indonesian,new,2026.tacl-1.19
+GEMEL-Llama-2,evaluated_on,Japanese,new,2026.tacl-1.19
+GEMEL-Llama-2,evaluated_on,Vietnamese,new,2026.tacl-1.19
+GEMEL-Llama-2,evaluated_on,Tamil,new,2026.tacl-1.19
+GEMEL-Aya-23,evaluated_on,Hindi,new,2026.tacl-1.19
+GEMEL-Aya-23,evaluated_on,Indonesian,new,2026.tacl-1.19
+GEMEL-Aya-23,evaluated_on,Japanese,new,2026.tacl-1.19
+GEMEL-Aya-23,evaluated_on,Vietnamese,new,2026.tacl-1.19
+GEMEL-Aya-23,evaluated_on,Tamil,new,2026.tacl-1.19
+mGENRE,measured_by,55.72 for Hindi (%),new,2026.tacl-1.19
+GEMEL-Llama-2,measured_by,61.1 for Hindi (%),new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,66.12 for Hindi (%) text,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,67.53 for Hindi (%) text+visual,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,70.24 Indonesian (%) text,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,75.00 Indonesian (%) text+visual,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,69.59 Japanese (%) text,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,70.05 Japanese (%) text+visual,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,69.16 Vietnamese (%) text,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,69.47 Vietnamese (%) text+visual,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,47.92  Tamil (%) text,new,2026.tacl-1.19
+GEMEL-Aya-23,measured_by,37.95 Tamil (%) text+visual,new,2026.tacl-1.19
+Aya-23,designed_for,strong performance across multiple languages,new,2026.tacl-1.19
+Aya-23,derived_from,diverse high-quality multilingual datasets,new,2026.tacl-1.19
+Aya-23,derived_from,Wikipedia,new,2026.tacl-1.19
+Llama-2,covers_language,English,new,2026.tacl-1.19
+Llama-2,measured_by,7B,new,2026.tacl-1.19
+Aya-23,measured_by,8B,new,2026.tacl-1.19
+BharatBBQ,covers_language,English,new,2025.tacl-1.75
+BharatBBQ,covers_language,Hindi,new,2025.tacl-1.75
+BharatBBQ,covers_language,Marathi,new,2025.tacl-1.75
+BharatBBQ,covers_language,Telugu,new,2025.tacl-1.75
+BharatBBQ,covers_language,Tamil,new,2025.tacl-1.75
+BharatBBQ,covers_language,Bengali,new,2025.tacl-1.75
+BharatBBQ,covers_language,Odia,new,2025.tacl-1.75
+BharatBBQ,covers_language,Assamese,new,2025.tacl-1.75
+BharatBBQ,designed_for,bias evaluation in question answering,new,2025.tacl-1.75
+BharatBBQ,evaluated_on,five opensource multilingual decoder-based LLM families,new,2025.tacl-1.75
+BharatBBQ,has_statistic,"49,108 examples in one language",new,2025.tacl-1.75
+BharatBBQ,has_statistic,"392,864 examples in eight different languages",new,2025.tacl-1.75
+BharatBBQ,covers_language,Indian languages,new,2025.tacl-1.75
+BharatBBQ,derived_from,BBQ,new,2025.tacl-1.75
+ID-MoCQA,covers_language,Indonesian,new,2026.tacl-1.56
+ID-MoCQA,covers_language,English,new,2026.tacl-1.56
+ID-MoCQA,designed_for,multi-hop question answering,new,2026.tacl-1.56
+ID-MoCQA,designed_for,assessing the cultural understanding of large language models (LLMs),new,2026.tacl-1.56
+ID-MoCQA,designed_for,advancing the cultural competency of LLMs,new,2026.tacl-1.56
+ID-MoCQA,evaluated_on,state-of-the-art models,new,2026.tacl-1.56
+ID-MoCQA,derived_from,Indonesian traditions,new,2026.tacl-1.56
+ID-MoCQA,evaluated_on,"open, frontier, and region-specific LLMs",new,2026.tacl-1.56
+ID-MoCQA,has_statistic,"15,590 multi-hop questions in Indonesian and English about Indonesian culture",new,2026.tacl-1.56
+Meta4XNLI,covers_language,English,old,2026.cl-1.6
+Meta4XNLI,covers_language,Spanish,old,2026.cl-1.6
+Meta4XNLI,designed_for,natural language inference (NLI),old,2026.cl-1.6
+Meta4XNLI,designed_for,metaphor detection and interpretation,old,2026.cl-1.6
+Meta4XNLI,designed_for,multilingual and cross-lingual settings,old,2026.cl-1.6
+Meta4XNLI,designed_for,cross-lingual metaphor transferability,old,2026.cl-1.6
+DiBiMT: A Gold Evaluation Benchmark for Studying Lexical Ambiguity in Machine Translation,introduces,Disambiguation Biases in MT (DiBiMT),old,2025.cl-2.1
+Disambiguation Biases in MT (DiBiMT),has_statistic,8 language combinations,old,2025.cl-2.1
+Disambiguation Biases in MT (DiBiMT),designed_for,investigating disambiguation biases,old,2025.cl-2.1
+Disambiguation Biases in MT (DiBiMT),designed_for,assessing the ability of both commercial and noncommercial systems to handle ambiguous words,old,2025.cl-2.1
+DIBIMT: A Gold Evaluation Benchmark for Studying Lexical Ambiguity in MT,designed_for,disambiguation purposes,old,2025.cl-2.1
+MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions,introduces,Multilingual Reverse Instructions (MURI),old,2025.tacl-1.48
+MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions,introduces,MURI-IT,old,2025.tacl-1.48
+MURI-IT,has_statistic,200 languages,old,2025.tacl-1.48
+MURI-IT,evaluated_on,13 languages,old,2025.tacl-1.48
+MURI-IT,has_statistic,2 million instruction-output pairs,old,2025.tacl-1.48
+MURI-IT,has_statistic,"2,228,499 instruction-output pairs",old,2025.tacl-1.48
+MURI-IT,has_statistic,64% of the data from low-resource languages,old,2025.tacl-1.48
+MURI-101,evaluated_on,multilingual MMLU,old,2025.tacl-1.48
+MURI-101,measured_by,14% better than mT0 in multilingual MMLU,old,2025.tacl-1.48
+MURI-101,measured_by,59%  better than mT0 in open-ended generation tasks,old,2025.tacl-1.48
+MURI-101,derived_from,mT5-XXL,old,2025.tacl-1.48
+mT5-XXL,has_statistic,101 languages,old,2025.tacl-1.48
+MURI-101,has_statistic,101 languages,old,2025.tacl-1.48
+MURI-101,evaluated_on,multilingual Natural Language Understanding (NLU),old,2025.tacl-1.48
+MURI-101,evaluated_on,open-ended generation (NLG),old,2025.tacl-1.48
+mT0,derived_from,mT5-XXL,old,2025.tacl-1.48
+mT0,has_statistic,46 languages,old,2025.tacl-1.48
+Okapi,derived_from,Bloom-7b,old,2025.tacl-1.48
+Okapi,derived_from,Llama-7b,old,2025.tacl-1.48
+mT0x,derived_from,mT5-XXL,old,2025.tacl-1.48
+mT0x,has_statistic,101 languages,old,2025.tacl-1.48
+Aya-101,derived_from,mT5-XXL,old,2025.tacl-1.48
+Aya-101,has_statistic,101 languages,old,2025.tacl-1.48
+TranslatedDolly,derived_from,Dolly,old,2025.tacl-1.48
+Multilingual MMLU,derived_from,MMLU,old,2025.tacl-1.48
+Multilingual MMLU,has_statistic,31 languages,old,2025.tacl-1.48
+Taxi1500,has_statistic,1500 languages,old,2025.tacl-1.48
+FSMODQA,designed_for,Few-Shot Multilingual Open-Domain QA,new,2025.tacl-1.24
+FSMODQA,has_statistic,up to 5 supervised examples per language,new,2025.tacl-1.24
+FSMODQA,evaluated_on,cross-lingual and monolingual retrieval,new,2025.tacl-1.24
+FSMODQA,evaluated_on,multilingual open-domain QA,new,2025.tacl-1.24
+FSMODQA,has_statistic,zero-shot adaptation to 15 languages,new,2025.tacl-1.24
+FSMODQA,measured_by,+5.1% gain on retrieval over few-shot baselines,new,2025.tacl-1.24
+FSMODQA,measured_by,+8.4% gain on multilingual open-domain QA over few-shot baselines,new,2025.tacl-1.24
+Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?,has_statistic,5 NLU tasks,old,2025.tacl-1.51
+CorefInst,evaluated_on,CorefUD v1.2,new,2026.tacl-1.4
+CorefInst,derived_from,Llama 3.1,new,2026.tacl-1.4
+Gemma 2,evaluated_on,CorefUD v1.2,new,2026.tacl-1.4
+Mistral 0.3,evaluated_on,CorefUD v1.2,new,2026.tacl-1.4
+CorefInst,measured_by,2 percentage points better than CorPipe24 on average across CorefUD v1.2,new,2026.tacl-1.4
+CorefInst: Leveraging LLMs for Multilingual Coreference Resolution,introduces,CorefInst,new,2026.tacl-1.4
+CorPipe24,designed_for,multilingual coreference resolution,new,2026.tacl-1.4
+CorPipe24,evaluated_on,CorefUD v1.2,new,2026.tacl-1.4
+CorefUD v1.2,measured_by,CoNLL coreference metric,new,2026.tacl-1.4
+CoNLL coreference metric,derived_from,"MUC, B-Cubed, and entity-based CEAF",new,2026.tacl-1.4
+anaphor-decomposable score,designed_for,evaluating a model on coreferences arising from zero mentions,new,2026.tacl-1.4
+CorefInst,measured_by,CoNLL coreference metric,new,2026.tacl-1.4
+CorefInst,measured_by,anaphor-decomposable score,new,2026.tacl-1.4
+CorPipe24,measured_by,CoNLL coreference metric,new,2026.tacl-1.4
+Llama 3.1,measured_by,75.38 average CR score over 5 instruction sets (initial experiments),new,2026.tacl-1.4
+Gemma 2,measured_by,73.29 average CR score over 5 instruction sets (initial experiments),new,2026.tacl-1.4
+Mistral 0.3,measured_by,71.66 average CR score over 5 instruction sets (initial experiments),new,2026.tacl-1.4
+Tamil Llama,derived_from,Llama2,old,2026.cl-1.9
+Tamil Llama,covers_language,Tamil,old,2026.cl-1.9
+Tamil Llama,has_statistic,12GB of Tamil text for adaptation,old,2026.cl-1.9
+How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?,has_statistic,"30K target-language sentences (about 0.01GB, 5M tokens) per language",old,2026.cl-1.9
+How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?,evaluated_on,machine translation,old,2026.cl-1.9
+How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?,evaluated_on,summarization,old,2026.cl-1.9
+How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?,evaluated_on,multiple-choice reading comprehension,old,2026.cl-1.9
+How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?,evaluated_on,general knowledge and reasoning,old,2026.cl-1.9
+How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?,has_statistic,10 typologically diverse languages,old,2026.cl-1.9
+How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?,has_statistic,3 English-centric LLMs,old,2026.cl-1.9
+Llama2 7B,covers_language,English,old,2026.cl-1.9
+Llama2 7B,evaluated_on,German,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Swahili,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Arabic,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Burmese,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Greek,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Hindi,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Japanese,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Sinhala,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Telugu,old,2026.cl-1.9
+Llama2 7B,evaluated_on,Thai,old,2026.cl-1.9
+Llama3 8B,covers_language,English,old,2026.cl-1.9
+Llama3 8B,evaluated_on,German,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Swahili,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Arabic,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Burmese,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Greek,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Hindi,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Japanese,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Sinhala,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Telugu,old,2026.cl-1.9
+Llama3 8B,evaluated_on,Thai,old,2026.cl-1.9
+Gemma2 9B,covers_language,English,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,German,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Swahili,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Arabic,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Burmese,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Greek,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Hindi,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Japanese,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Sinhala,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Telugu,old,2026.cl-1.9
+Gemma2 9B,evaluated_on,Thai,old,2026.cl-1.9
+Llama2 7B,has_statistic,32K vocabulary,old,2026.cl-1.9
+Llama3 8B,has_statistic,128K vocabulary,old,2026.cl-1.9
+Gemma2 9B,has_statistic,256K vocabulary,old,2026.cl-1.9
+A Principled Framework for Evaluating on Typologically Diverse Languages,introduces,typologically diverse language sampling framework,old,2026.cl-1.7
+typologically diverse language sampling framework,designed_for,selecting highly typologically diverse languages,old,2026.cl-1.7
+typologically diverse language sampling framework,has_statistic,4 measures of typological diversity,old,2026.cl-1.7
+A Principled Framework for Evaluating on Typologically Diverse Languages,introduces,typdiv-sampling (Python package),old,2026.cl-1.7
+LLMs and Cultural Values: The Impact of Prompt Language and Explicit Cultural Framing,has_statistic,survey prompts in 11 languages,new,2026.cl-2.2
+LLMs and Cultural Values: The Impact of Prompt Language and Explicit Cultural Framing,has_statistic,10 LLMs probed,new,2026.cl-2.2
+LLMs and Cultural Values: The Impact of Prompt Language and Explicit Cultural Framing,evaluated_on,Hofstede Values Survey Module and World Values Survey (63 items),new,2026.cl-2.2
+Hofstede Values Survey Module,designed_for,crosscultural studies,new,2026.cl-2.2
+Hofstede Values Survey Module,has_statistic,24 questions,new,2026.cl-2.2
+Hofstede Values Survey Module,has_statistic,answers on a 5-point Likert scale,new,2026.cl-2.2
+Hofstede Values Survey Module,has_statistic,6 dimensions,new,2026.cl-2.2
+Hofstede Values Survey Module,measured_by,Power Distance Index,new,2026.cl-2.2
+Hofstede Values Survey Module,measured_by,Motivation Towards Achievement and Success,new,2026.cl-2.2
+Hofstede Values Survey Module,measured_by,Uncertainty Avoidance Index,new,2026.cl-2.2
+Hofstede Values Survey Module,measured_by,Long-Term versus Short-Term Orientation,new,2026.cl-2.2
+Hofstede Values Survey Module,measured_by,Indulgence versus Restraint,new,2026.cl-2.2
+Hofstede Values Survey Module,has_statistic,dimension scores for over 100 countries/regions,new,2026.cl-2.2
+TurBLiMP,covers_language,Turkish,new,2025.emnlp-main.834
+TurBLiMP,designed_for,evaluating the linguistic abilities of language models,new,2025.emnlp-main.834
+TurBLiMP,has_statistic,16 linguistic phenomena,new,2025.emnlp-main.834
+TurBLiMP,has_statistic,1000 minimal pairs per phenomenon,new,2025.emnlp-main.834
+TurBLiMP: A Turkish Benchmark of Linguistic Minimal Pairs,introduces,TurBLiMP,new,2025.emnlp-main.834
+TurBLiMP,has_statistic,13 models evaluated,new,2025.emnlp-main.834
+Goldfish series,covers_language,Turkish,new,2025.emnlp-main.834
+BERTurk,covers_language,Turkish,new,2025.emnlp-main.834
+cosmosGPT,covers_language,Turkish,new,2025.emnlp-main.834
+Aya Expanse 8B,covers_language,Turkish,new,2025.emnlp-main.834
+EuroLLM 9B,covers_language,Turkish,new,2025.emnlp-main.834
+cosmosGPT,derived_from,GPT-2,new,2025.emnlp-main.834
+BERTurk,has_statistic,185M parameters,new,2025.emnlp-main.834
+BERTurk,has_statistic,128k vocabulary,new,2025.emnlp-main.834
+cosmosGPT,has_statistic,774M parameters,new,2025.emnlp-main.834
+Qwen 2.5 7B,has_statistic,7B parameters,new,2025.emnlp-main.834
+Llama 3.1 8B,has_statistic,8B parameters,new,2025.emnlp-main.834
+Aya Expanse 8B,has_statistic,8B parameters,new,2025.emnlp-main.834
+Gemma 2 7B,has_statistic,7B parameters,new,2025.emnlp-main.834
+Gemma 3 4B,has_statistic,4B parameters,new,2025.emnlp-main.834
+EuroLLM 9B,has_statistic,9B parameters,new,2025.emnlp-main.834
+Goldfish series,has_statistic,"training data sizes of 5MB, 10MB, 100MB and 1000MB",new,2025.emnlp-main.834
+Aya Expanse 8B,has_statistic,supports 23 languages,new,2025.emnlp-main.834
+Gemma 3,has_statistic,supports over 140 languages,new,2025.emnlp-main.834
+TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages,introduces,TUMLU,new,2025.acl-long.1112
+TUMLU,covers_language,Azerbaijani,new,2025.acl-long.1112
+TUMLU,covers_language,Crimean Tatar,new,2025.acl-long.1112
+TUMLU,covers_language,Karakalpak,new,2025.acl-long.1112
+TUMLU,covers_language,Kazakh,new,2025.acl-long.1112
+TUMLU,covers_language,Kyrgyz,new,2025.acl-long.1112
+TUMLU,covers_language,Tatar,new,2025.acl-long.1112
+TUMLU,covers_language,Turkish,new,2025.acl-long.1112
+TUMLU,covers_language,Uyghur,new,2025.acl-long.1112
+TUMLU,covers_language,Uzbek,new,2025.acl-long.1112
+Kazakh,belongs_to_family,Turkic,new,2025.acl-long.1112
+TUMLU,designed_for,language understanding (MMLU-style) evaluation of Turkic languages,new,2025.acl-long.1112
+TUMLU,evaluated_on,Claude,new,2025.acl-long.1112
+TUMLU,evaluated_on,Gemini,new,2025.acl-long.1112
+TUMLU,evaluated_on,GPT,new,2025.acl-long.1112
+TUMLU,evaluated_on,LLaMA,new,2025.acl-long.1112
+TUMLU,has_statistic,11 academic subjects,new,2025.acl-long.1112
+TUMLU,has_statistic,38139 questions,new,2025.acl-long.1112
+TUMLU,has_statistic,8 languages,new,2025.acl-long.1112
+TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages,introduces,TUMLU-mini,new,2025.acl-long.1112
+TUMLU-mini,has_statistic,100 questions per subject,new,2025.acl-long.1112
+The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design,introduces,ru-en-RoSBERTa,old,2025.naacl-long.12
+The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design,introduces,ruMTEB,old,2025.naacl-long.12
+ruMTEB,derived_from,Massive Text Embedding Benchmark,old,2025.naacl-long.12
+ru-en-RoSBERTa,covers_language,Russian,old,2025.naacl-long.12
+ruberttiny2,covers_language,Russian,old,2025.naacl-long.12
+SBERT-large-nlu-ru,covers_language,Russian,old,2025.naacl-long.12
+SBERT-large-mt-nlu-ru,covers_language,Russian,old,2025.naacl-long.12
+enkodechka,designed_for,Russian text embedding evaluation,old,2025.naacl-long.12
+MTEB,designed_for,text embedding evaluation,old,2025.naacl-long.12
+ruMTEB,has_statistic,23 text embedding tasks,old,2025.naacl-long.12
+ruMTEB,has_statistic,17 new tasks,old,2025.naacl-long.12
+ru-en-RoSBERTa,covers_language,English,old,2025.naacl-long.12
+ru-en-RoSBERTa,derived_from,ruRoBERTa,old,2025.naacl-long.12
+KazMMLU,covers_language,Kazakh,new,2025.acl-long.701
+KazMMLU,covers_language,Russian,new,2025.acl-long.701
+KazMMLU,designed_for,MMLU-style evaluation of Kazakh,new,2025.acl-long.701
+KazMMLU,evaluated_on,Llama3.1,new,2025.acl-long.701
+KazMMLU,evaluated_on,Qwen-2.5,new,2025.acl-long.701
+KazMMLU,evaluated_on,GPT-4,new,2025.acl-long.701
+KazMMLU,evaluated_on,DeepSeek V3,new,2025.acl-long.701
+KazMMLU,has_statistic,"23,000 questions",new,2025.acl-long.701
+KazMMLU,has_statistic,"10,969 Kazakh questions",new,2025.acl-long.701
+KazMMLU,has_statistic,"12,031 Russian questions",new,2025.acl-long.701
+"KazMMLU: Evaluating Language Models on Kazakh, Russian, and Regional Knowledge of Kazakhstan",introduces,KazMMLU,new,2025.acl-long.701
+KazMMLU,derived_from,Massive Multitask Language Understanding (MMLU),new,2025.acl-long.701
+GPT-4o,measured_by,76.6% average accuracy on KazMMLU,new,2025.acl-long.701
+DeepSeek V3,measured_by,76.9% average accuracy on KazMMLU,new,2025.acl-long.701
+Gemma-2-27B-IT,measured_by,57.4% average accuracy on KazMMLU,new,2025.acl-long.701
+Llama3.1- 70B,measured_by,56.2% average accuracy on KazMMLU,new,2025.acl-long.701
+Llama3.1-8B-instruct,measured_by,44.6% average accuracy on KazMMLU,new,2025.acl-long.701
+Llama3.1-8B (base),measured_by,39.7% average accuracy on KazMMLU,new,2025.acl-long.701
+Qwen-2.5-7B-Instruct,measured_by,"58.9% on KazMMLU (3-shot, English prompt)",new,2025.acl-long.701
+Qwen-2.5-7B-Instruct,measured_by,"47.8% on KazMMLU (0-shot, English prompt)",new,2025.acl-long.701
+GPT-4o,measured_by,76.9% on Kazakh high-school subjects of KazMMLU,new,2025.acl-long.701
+DeepSeek V3,measured_by,81.4% on Russian high-school subjects of KazMMLU,new,2025.acl-long.701
+Llama3.1-70B,measured_by,57.7% on KazMMLU High School,new,2025.acl-long.701
+Llama3.1-70B,measured_by,53.2% on KazMMLU Professional & University,new,2025.acl-long.701
+BRAVE,designed_for,cross-language text classification,old,N16-1083
+BRAVE,derived_from,paragraph vector embeddings,old,N16-1083
+Bilingual Word Embeddings from Parallel and Non-parallel Corpora for Cross-Language Text Classification,introduces,BRAVE (Bilingual paRAgraph VEctors),old,N16-1083
+"EP corpora (English-German, English-French, English-Spanish)",has_statistic,around 1.9M sentence pairs per language pair,old,N16-1083
+BRAVE-S,derived_from,EP corpora,old,N16-1083
+BRAVE-D,derived_from,CL-APR,old,N16-1083
+BRAVE-S approach,evaluated_on,TED corpus,old,N16-1083
+TED corpus,has_statistic,12 languages,old,N16-1083
+TED corpus,has_statistic,15 topics (class labels),old,N16-1083
+CL-APR,designed_for,cross-language sentiment classification,old,N16-1083
+CL-APR,derived_from,Amazon product reviews,old,N16-1083
+xLiD-Lexica,designed_for,cross-lingual information access,old,L14-1232
+xLiD-Lexica,designed_for,natural language generation,old,L14-1232
+xLiD-Lexica,designed_for,cross-lingual entity linking,old,L14-1232
+xLiD-Lexica,designed_for,text annotation,old,L14-1232
+xLiD-Lexica,designed_for,question answering,old,L14-1232
+xLiD-Lexica,derived_from,multilingual Wikipedia,old,L14-1232
+xLiD-Lexica,derived_from,linked data resources from Linked Open Data,old,L14-1232
+xLiD-Lexica,covers_language,English,old,L14-1232
+xLiD-Lexica,covers_language,German,old,L14-1232
+xLiD-Lexica,covers_language,Spanish,old,L14-1232
+xLiD-Lexica,covers_language,Chinese,old,L14-1232
+RECSA: Resource for Evaluating Cross-lingual Semantic Annotation,introduces,RECSA,old,L14-1746
+RECSA,derived_from,English Wikipedia,old,L14-1746
+RECSA,derived_from,DBPedia,old,L14-1746
+RECSA,has_statistic,300 news articles,old,L14-1746
+RECSA,covers_language,English,old,L14-1746
+RECSA,covers_language,German,old,L14-1746
+RECSA,covers_language,Spanish,old,L14-1746
+RECSA,has_statistic,"74,337 English tokens",old,L14-1746
+RECSA,has_statistic,"79,146 German tokens",old,L14-1746
+RECSA,has_statistic,"77,476 Spanish tokens",old,L14-1746
+XLike project,covers_language,English,old,L14-1746
+XLike project,covers_language,German,old,L14-1746
+XLike project,covers_language,Spanish,old,L14-1746
+Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets,covers_language,German,old,2025.acl-srw.4
+Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets,evaluated_on,German Twitter data,old,2025.acl-srw.4
+Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets,designed_for,topic labeling,old,2025.acl-srw.4

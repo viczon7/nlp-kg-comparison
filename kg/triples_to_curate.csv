@@ -1,0 +1,577 @@
+﻿keep;head;relation;tail;paper_id;split;passage_id
+1;MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs;introduces;MultiBLiMP 1.0;2026.tacl-1.10;new;2026.tacl-1.10#0
+1;MultiBLiMP 1.0;covers_language;101 languages;2026.tacl-1.10;new;2026.tacl-1.10#0
+1;MultiBLiMP 1.0;has_statistic;2 types of subject-verb agreement;2026.tacl-1.10;new;2026.tacl-1.10#0
+1;MultiBLiMP 1.0;has_statistic;more than 128,000 minimal pairs;2026.tacl-1.10;new;2026.tacl-1.10#0
+1;MultiBLiMP 1.0;derived_from;Universal Dependencies;2026.tacl-1.10;new;2026.tacl-1.10#0
+0;MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs;introduces;MultiBLiMP 1.0;2026.tacl-1.10;new;2026.tacl-1.10#1
+0;MultiBLiMP 1.0;covers_language;101 languages;2026.tacl-1.10;new;2026.tacl-1.10#1
+1;MultiBLiMP 1.0;evaluated_on;42 LLMs;2026.tacl-1.10;new;2026.tacl-1.10#1
+1;MultiBLiMP 1.0;derived_from;Universal Dependencies;2026.tacl-1.10;new;2026.tacl-1.10#1
+1;MultiBLiMP 1.0;derived_from;UniMorph;2026.tacl-1.10;new;2026.tacl-1.10#1
+0;MultiBLiMP 1.0;covers_language;more than 128,000 minimal pairs;2026.tacl-1.10;new;2026.tacl-1.10#1
+1;Goldfish suite;has_statistic;models have 500M parameters;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;Goldfish suite;has_statistic;70 out of the 101 languagesin MultiBLiMP;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;Aya-expanse;covers_language;23 languages;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;Aya-expanse;has_statistic;18 of 23 languages are in MultiBLiMP 1.0;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;Gemma3;covers_language;140 languages;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;EuroLLM;covers_language;35 (mostly) European languages;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;EuroLLM;has_statistic;32 of 35 languages are present in MultiBLiMP 1.0;2026.tacl-1.10;new;2026.tacl-1.10#2
+0;Goldfish suite;covers_language;101 languages in MultiBLiMP;2026.tacl-1.10;new;2026.tacl-1.10#2
+1;language frequencies of Kargaran et al. (2024);measured_by;3.9T token;2026.tacl-1.10;new;2026.tacl-1.10#3
+1;language frequencies of Kargaran et al. (2024);derived_from;Common Crawl corpus;2026.tacl-1.10;new;2026.tacl-1.10#3
+1;MERLIN: A Testbed for Multilingual Multimodal Entity Recognition and Linking;introduces;MERLIN;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;covers_language;Hindi;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;covers_language;Japanese;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;covers_language;Indonesian;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;covers_language;Vietnamese;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;covers_language;Tamil;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;evaluated_on;LLaMa-2;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;evaluated_on;Aya-23;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;has_statistic;7,000 named entity mentions;2026.tacl-1.19;new;2026.tacl-1.19#0
+1;MERLIN;has_statistic;2,500 unique Wikidata entities;2026.tacl-1.19;new;2026.tacl-1.19#0
+0;MERLIN;covers_language;Hindi;2026.tacl-1.19;new;2026.tacl-1.19#1
+0;MERLIN;covers_language;Japanese;2026.tacl-1.19;new;2026.tacl-1.19#1
+0;MERLIN;covers_language;Indonesian;2026.tacl-1.19;new;2026.tacl-1.19#1
+0;MERLIN;covers_language;Vietnamese;2026.tacl-1.19;new;2026.tacl-1.19#1
+0;MERLIN;covers_language;Tamil;2026.tacl-1.19;new;2026.tacl-1.19#1
+0;MERLIN;evaluated_on;2,5;2026.tacl-1.19;new;2026.tacl-1.19#1
+0;MERLIN;evaluated_on;7;2026.tacl-1.19;new;2026.tacl-1.19#1
+1;mGENRE;covers_language;Hindi;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;covers_language;Indonesian;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;covers_language;Japanese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;covers_language;Vietnamese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;covers_language;Tamil;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;covers_language;Hindi;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;covers_language;Indonesian;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;covers_language;Japanese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;covers_language;Vietnamese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;covers_language;Tamil;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;evaluated_on;Hindi;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;evaluated_on;Indonesian;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;evaluated_on;Japanese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;evaluated_on;Vietnamese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;evaluated_on;Tamil;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Llama-2;evaluated_on;Hindi;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Llama-2;evaluated_on;Indonesian;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Llama-2;evaluated_on;Japanese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Llama-2;evaluated_on;Vietnamese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Llama-2;evaluated_on;Tamil;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;evaluated_on;Hindi;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;evaluated_on;Indonesian;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;evaluated_on;Japanese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;evaluated_on;Vietnamese;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;evaluated_on;Tamil;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;mGENRE;measured_by;55.72 for Hindi (%);2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Llama-2;measured_by;61.1 for Hindi (%);2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;66.12 for Hindi (%) text;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;67.53 for Hindi (%) text+visual;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;70.24 Indonesian (%) text;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;75.00 Indonesian (%) text+visual;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;69.59 Japanese (%) text;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;70.05 Japanese (%) text+visual;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;69.16 Vietnamese (%) text;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;69.47 Vietnamese (%) text+visual;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;47.92  Tamil (%) text;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;GEMEL-Aya-23;measured_by;37.95 Tamil (%) text+visual;2026.tacl-1.19;new;2026.tacl-1.19#3
+0;Aya-23;belongs_to_family;multilingual LLM;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;Aya-23;designed_for;strong performance across multiple languages;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;Aya-23;derived_from;diverse high-quality multilingual datasets;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;Aya-23;derived_from;Wikipedia;2026.tacl-1.19;new;2026.tacl-1.19#3
+0;Llama-2;belongs_to_family;LLM;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;Llama-2;covers_language;English;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;Llama-2;measured_by;7B;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;Aya-23;measured_by;8B;2026.tacl-1.19;new;2026.tacl-1.19#3
+1;BharatBBQ;covers_language;English;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Hindi;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Marathi;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Telugu;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Tamil;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Bengali;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Odia;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Assamese;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;designed_for;bias evaluation in question answering;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;evaluated_on;five opensource multilingual decoder-based LLM families;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;has_statistic;49,108 examples in one language;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;has_statistic;392,864 examples in eight different languages;2025.tacl-1.75;new;2025.tacl-1.75#1
+1;BharatBBQ;covers_language;Indian languages;2025.tacl-1.75;new;2025.tacl-1.75#3
+0;BharatBBQ;designed_for;Indian users;2025.tacl-1.75;new;2025.tacl-1.75#3
+1;BharatBBQ;derived_from;BBQ;2025.tacl-1.75;new;2025.tacl-1.75#3
+1;ID-MoCQA;covers_language;Indonesian;2026.tacl-1.56;new;2026.tacl-1.56#0
+1;ID-MoCQA;covers_language;English;2026.tacl-1.56;new;2026.tacl-1.56#0
+1;ID-MoCQA;designed_for;multi-hop question answering;2026.tacl-1.56;new;2026.tacl-1.56#0
+1;ID-MoCQA;designed_for;assessing the cultural understanding of large language models (LLMs);2026.tacl-1.56;new;2026.tacl-1.56#0
+1;ID-MoCQA;designed_for;advancing the cultural competency of LLMs;2026.tacl-1.56;new;2026.tacl-1.56#0
+1;ID-MoCQA;evaluated_on;state-of-the-art models;2026.tacl-1.56;new;2026.tacl-1.56#0
+1;ID-MoCQA;derived_from;Indonesian traditions;2026.tacl-1.56;new;2026.tacl-1.56#0
+0;ID-MoCQA;covers_language;Indonesian;2026.tacl-1.56;new;2026.tacl-1.56#1
+0;ID-MoCQA;covers_language;English;2026.tacl-1.56;new;2026.tacl-1.56#1
+0;ID-MoCQA;belongs_to_family;multihop cultural QA dataset;2026.tacl-1.56;new;2026.tacl-1.56#1
+0;ID-MoCQA;designed_for;Indonesia;2026.tacl-1.56;new;2026.tacl-1.56#1
+1;ID-MoCQA;evaluated_on;open, frontier, and region-specific LLMs;2026.tacl-1.56;new;2026.tacl-1.56#1
+1;ID-MoCQA;has_statistic;15,590 multi-hop questions in Indonesian and English about Indonesian culture;2026.tacl-1.56;new;2026.tacl-1.56#1
+1;Meta4XNLI;covers_language;English;2026.cl-1.6;old;2026.cl-1.6#0
+1;Meta4XNLI;covers_language;Spanish;2026.cl-1.6;old;2026.cl-1.6#0
+1;Meta4XNLI;designed_for;natural language inference (NLI);2026.cl-1.6;old;2026.cl-1.6#0
+1;Meta4XNLI;designed_for;metaphor detection and interpretation;2026.cl-1.6;old;2026.cl-1.6#0
+1;Meta4XNLI;designed_for;multilingual and cross-lingual settings;2026.cl-1.6;old;2026.cl-1.6#0
+0;Meta4XNLI;designed_for;comparison of encoder- and decoder-based models;2026.cl-1.6;old;2026.cl-1.6#0
+1;Meta4XNLI;designed_for;cross-lingual metaphor transferability;2026.cl-1.6;old;2026.cl-1.6#0
+1;DiBiMT: A Gold Evaluation Benchmark for Studying Lexical Ambiguity in Machine Translation;introduces;Disambiguation Biases in MT (DiBiMT);2025.cl-2.1;old;2025.cl-2.1#0
+1;Disambiguation Biases in MT (DiBiMT);has_statistic;8 language combinations;2025.cl-2.1;old;2025.cl-2.1#0
+1;Disambiguation Biases in MT (DiBiMT);designed_for;investigating disambiguation biases;2025.cl-2.1;old;2025.cl-2.1#0
+1;Disambiguation Biases in MT (DiBiMT);designed_for;assessing the ability of both commercial and noncommercial systems to handle ambiguous words;2025.cl-2.1;old;2025.cl-2.1#0
+0;Disambiguation Biases in MT (DiBiMT);designed_for;manual error analysis in all language pairs;2025.cl-2.1;old;2025.cl-2.1#0
+1;DIBIMT: A Gold Evaluation Benchmark for Studying Lexical Ambiguity in MT;designed_for;disambiguation purposes;2025.cl-2.1;old;2025.cl-2.1#5
+0;multilingual models;belongs_to_family;multilingual MT systems;2025.cl-2.1;old;2025.cl-2.1#5
+1;MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions;introduces;Multilingual Reverse Instructions (MURI);2025.tacl-1.48;old;2025.tacl-1.48#0
+1;MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions;introduces;MURI-IT;2025.tacl-1.48;old;2025.tacl-1.48#0
+0;MURI-IT;covers_language;200 languages;2025.tacl-1.48;old;2025.tacl-1.48#0
+0;MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions;introduces;Multilingual Reverse Instructions (MURI);2025.tacl-1.48;old;2025.tacl-1.48#2
+0;MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions;introduces;MURI-IT;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-IT;has_statistic;200 languages;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-IT;evaluated_on;13 languages;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-IT;has_statistic;2 million instruction-output pairs;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-IT;has_statistic;2,228,499 instruction-output pairs;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-IT;has_statistic;64% of the data from low-resource languages;2025.tacl-1.48;old;2025.tacl-1.48#2
+0;MURI-101;belongs_to_family;mT5 family models;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-101;evaluated_on;multilingual MMLU;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-101;measured_by;14% better than mT0 in multilingual MMLU;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-101;measured_by;59%  better than mT0 in open-ended generation tasks;2025.tacl-1.48;old;2025.tacl-1.48#2
+0;MURI-101;measured_by;28%;2025.tacl-1.48;old;2025.tacl-1.48#2
+1;MURI-101;derived_from;mT5-XXL;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;mT5-XXL;has_statistic;101 languages;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;MURI-101;has_statistic;101 languages;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;MURI-101;evaluated_on;multilingual Natural Language Understanding (NLU);2025.tacl-1.48;old;2025.tacl-1.48#3
+1;MURI-101;evaluated_on;open-ended generation (NLG);2025.tacl-1.48;old;2025.tacl-1.48#3
+1;mT0;derived_from;mT5-XXL;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;mT0;has_statistic;46 languages;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Okapi;derived_from;Bloom-7b;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Okapi;derived_from;Llama-7b;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;mT0x;derived_from;mT5-XXL;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;mT0x;has_statistic;101 languages;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Aya-101;derived_from;mT5-XXL;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Aya-101;has_statistic;101 languages;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;TranslatedDolly;derived_from;Dolly;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Multilingual MMLU;derived_from;MMLU;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Multilingual MMLU;has_statistic;31 languages;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;Taxi1500;has_statistic;1500 languages;2025.tacl-1.48;old;2025.tacl-1.48#3
+1;FSMODQA;designed_for;Few-Shot Multilingual Open-Domain QA;2025.tacl-1.24;new;2025.tacl-1.24#1
+0;FSMODQA;designed_for;minimally-sized supervised data;2025.tacl-1.24;new;2025.tacl-1.24#1
+1;FSMODQA;has_statistic;up to 5 supervised examples per language;2025.tacl-1.24;new;2025.tacl-1.24#1
+1;FSMODQA;evaluated_on;cross-lingual and monolingual retrieval;2025.tacl-1.24;new;2025.tacl-1.24#2
+1;FSMODQA;evaluated_on;multilingual open-domain QA;2025.tacl-1.24;new;2025.tacl-1.24#2
+1;FSMODQA;has_statistic;zero-shot adaptation to 15 languages;2025.tacl-1.24;new;2025.tacl-1.24#2
+1;FSMODQA;measured_by;+5.1% gain on retrieval over few-shot baselines;2025.tacl-1.24;new;2025.tacl-1.24#2
+1;FSMODQA;measured_by;+8.4% gain on multilingual open-domain QA over few-shot baselines;2025.tacl-1.24;new;2025.tacl-1.24#2
+0;Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?;covers_language;high- and low-resource languages;2025.tacl-1.51;old;2025.tacl-1.51#0
+1;Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?;has_statistic;5 NLU tasks;2025.tacl-1.51;old;2025.tacl-1.51#0
+0;Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?;evaluated_on;a myriad of language and domain setups;2025.tacl-1.51;old;2025.tacl-1.51#0
+0;Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?;introduces;few-shot multilingual NLU;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?;introduces;Supervised Fine-Tuning (SFT);2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?;introduces;Supervised Instruction-Tuning (SIT);2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?;introduces;In-Context Learning (ICL);2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Fine-Tuning (SFT);belongs_to_family;few-shot multilingual NLU;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Instruction-Tuning (SIT);belongs_to_family;few-shot multilingual NLU;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);belongs_to_family;few-shot multilingual NLU;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);designed_for;single language-task combination;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Fine-Tuning (SFT);designed_for;single language-task combination;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Instruction-Tuning (SIT);designed_for;single language-task combination;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);evaluated_on;English;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);evaluated_on;other languages;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);evaluated_on;low-resource ones;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Fine-Tuning (SFT);evaluated_on;a much larger array of languages;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Instruction-Tuning (SIT);evaluated_on;a much larger array of languages;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);measured_by;ICL results;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);measured_by;ICL performance;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Fine-Tuning (SFT);measured_by;sample-efficient transfer;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Instruction-Tuning (SIT);measured_by;sample-efficient transfer;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);derived_from;pretraining;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);derived_from;demonstrations;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Fine-Tuning (SFT);derived_from;pretrained model parameters;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Instruction-Tuning (SIT);derived_from;pretrained model parameters;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);covers_language;English;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);covers_language;other languages;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;In-Context Learning (ICL);covers_language;low-resource ones;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Fine-Tuning (SFT);covers_language;a much larger array of languages;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;Supervised Instruction-Tuning (SIT);covers_language;a much larger array of languages;2025.tacl-1.51;old;2025.tacl-1.51#1
+0;The inputs for ICL;designed_for;crosslingual manner;2025.tacl-1.51;old;2025.tacl-1.51#5
+0;The inputs for ICL;covers_language;English;2025.tacl-1.51;old;2025.tacl-1.51#5
+0;The inputs for ICL;covers_language;target language;2025.tacl-1.51;old;2025.tacl-1.51#5
+0;CorefInst: Leveraging LLMs for Multilingual Coreference Resolution;introduces;multilingual CR methodology;2026.tacl-1.4;new;2026.tacl-1.4#0
+0;CorefInst;covers_language;all languages;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;CorefInst;evaluated_on;CorefUD v1.2;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;CorefInst;derived_from;Llama 3.1;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;Gemma 2;evaluated_on;CorefUD v1.2;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;Mistral 0.3;evaluated_on;CorefUD v1.2;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;CorefInst;measured_by;2 percentage points better than CorPipe24 on average across CorefUD v1.2;2026.tacl-1.4;new;2026.tacl-1.4#0
+1;CorefInst: Leveraging LLMs for Multilingual Coreference Resolution;introduces;CorefInst;2026.tacl-1.4;new;2026.tacl-1.4#2
+0;CorPipe24;belongs_to_family;CorPipe system family;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;CorPipe24;designed_for;multilingual coreference resolution;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;CorPipe24;evaluated_on;CorefUD v1.2;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;CorefUD v1.2;measured_by;CoNLL coreference metric;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;CoNLL coreference metric;derived_from;MUC, B-Cubed, and entity-based CEAF;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;CorefUD initiative;designed_for;CR studies on pro-drop languages;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;anaphor-decomposable score;designed_for;evaluating a model on coreferences arising from zero mentions;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;anaphor-decomposable score;measured_by;zero metric;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;CorefInst;evaluated_on;CorefUD v1.2;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;CorefInst;measured_by;CoNLL coreference metric;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;CorefInst;measured_by;anaphor-decomposable score;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;CorPipe24;measured_by;CoNLL coreference metric;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;CorPipe24;measured_by;anaphor-decomposable score;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Llama;measured_by;75.57±0.49;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Llama;measured_by;72.45±1.71;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Llama;measured_by;72.46±1.37;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Gemma;measured_by;74.71±0.32;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Gemma;measured_by;73.51±0.84;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Gemma;measured_by;71.28±1.64;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Mistral;measured_by;74.91±1.35;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Mistral;measured_by;73.82±2.13;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Mistral;measured_by;71.44±2.59;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #1;measured_by;75.54±1.48;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #1;measured_by;73.43±0.96;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #1;measured_by;71.58±2.15;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #2;measured_by;76.15±1.16;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #2;measured_by;73.25±1.07;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #2;measured_by;71.55±2.17;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #3;measured_by;75.38±0.57;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #3;measured_by;73.29±0.52;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #3;measured_by;71.66±0.46;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #4;measured_by;75.54±1.48;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #4;measured_by;73.43±0.96;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #4;measured_by;71.58±2.15;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #5;measured_by;76.15±1.16;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #5;measured_by;73.25±1.07;2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Inst. #5;measured_by;71.55±2.17;2026.tacl-1.4;new;2026.tacl-1.4#4
+1;Llama 3.1;measured_by;75.38 average CR score over 5 instruction sets (initial experiments);2026.tacl-1.4;new;2026.tacl-1.4#4
+1;Gemma 2;measured_by;73.29 average CR score over 5 instruction sets (initial experiments);2026.tacl-1.4;new;2026.tacl-1.4#4
+1;Mistral 0.3;measured_by;71.66 average CR score over 5 instruction sets (initial experiments);2026.tacl-1.4;new;2026.tacl-1.4#4
+0;Large language models;covers_language;English;2026.cl-1.9;old;2026.cl-1.9#1
+0;Large language models;covers_language;other languages;2026.cl-1.9;old;2026.cl-1.9#1
+1;Tamil Llama;derived_from;Llama2;2026.cl-1.9;old;2026.cl-1.9#1
+1;Tamil Llama;covers_language;Tamil;2026.cl-1.9;old;2026.cl-1.9#1
+1;Tamil Llama;has_statistic;12GB of Tamil text for adaptation;2026.cl-1.9;old;2026.cl-1.9#1
+1;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;has_statistic;30K target-language sentences (about 0.01GB, 5M tokens) per language;2026.cl-1.9;old;2026.cl-1.9#1
+0;Tamil Llamas;measured_by;approximately 5M tokens;2026.cl-1.9;old;2026.cl-1.9#1
+0;Tamil Llamas;measured_by;0.01GB;2026.cl-1.9;old;2026.cl-1.9#1
+1;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;evaluated_on;machine translation;2026.cl-1.9;old;2026.cl-1.9#1
+1;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;evaluated_on;summarization;2026.cl-1.9;old;2026.cl-1.9#1
+1;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;evaluated_on;multiple-choice reading comprehension;2026.cl-1.9;old;2026.cl-1.9#1
+1;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;evaluated_on;general knowledge and reasoning;2026.cl-1.9;old;2026.cl-1.9#1
+1;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;has_statistic;10 typologically diverse languages;2026.cl-1.9;old;2026.cl-1.9#1
+0;this article;evaluated_on;low-resource settings;2026.cl-1.9;old;2026.cl-1.9#1
+1;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;has_statistic;3 English-centric LLMs;2026.cl-1.9;old;2026.cl-1.9#1
+1;Llama2 7B;covers_language;English;2026.cl-1.9;old;2026.cl-1.9#3
+0;Llama2 7B;designed_for;English-centric;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;German;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Swahili;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Arabic;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Burmese;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Greek;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Hindi;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Japanese;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Sinhala;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Telugu;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;evaluated_on;Thai;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;covers_language;English;2026.cl-1.9;old;2026.cl-1.9#3
+0;Llama3 8B;designed_for;English-centric;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;German;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Swahili;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Arabic;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Burmese;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Greek;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Hindi;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Japanese;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Sinhala;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Telugu;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;evaluated_on;Thai;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;covers_language;English;2026.cl-1.9;old;2026.cl-1.9#3
+0;Gemma2 9B;designed_for;English-centric;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;German;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Swahili;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Arabic;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Burmese;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Greek;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Hindi;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Japanese;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Sinhala;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Telugu;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;evaluated_on;Thai;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama2 7B;has_statistic;32K vocabulary;2026.cl-1.9;old;2026.cl-1.9#3
+1;Llama3 8B;has_statistic;128K vocabulary;2026.cl-1.9;old;2026.cl-1.9#3
+1;Gemma2 9B;has_statistic;256K vocabulary;2026.cl-1.9;old;2026.cl-1.9#3
+0;How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB of Target Language Text?;derived_from;CC-100;2026.cl-1.9;old;2026.cl-1.9#3
+0;CC-100;has_statistic;5M;2026.cl-1.9;old;2026.cl-1.9#3
+0;previous work on vocabulary expansion for generative LLMs;has_statistic;200M;2026.cl-1.9;old;2026.cl-1.9#3
+0;previous work on vocabulary expansion for generative LLMs;has_statistic;2.5B;2026.cl-1.9;old;2026.cl-1.9#3
+0;previous work on vocabulary expansion for generative LLMs;has_statistic;40;2026.cl-1.9;old;2026.cl-1.9#3
+1;A Principled Framework for Evaluating on Typologically Diverse Languages;introduces;typologically diverse language sampling framework;2026.cl-1.7;old;2026.cl-1.7#0
+0;A Principled Framework for Evaluating on Typologically Diverse Languages;covers_language;multilingual natural language processing;2026.cl-1.7;old;2026.cl-1.7#0
+1;typologically diverse language sampling framework;designed_for;selecting highly typologically diverse languages;2026.cl-1.7;old;2026.cl-1.7#0
+0;A Principled Framework for Evaluating on Typologically Diverse Languages;designed_for;given a sampling frame;2026.cl-1.7;old;2026.cl-1.7#0
+0;A Principled Framework for Evaluating on Typologically Diverse Languages;designed_for;informed by language typology;2026.cl-1.7;old;2026.cl-1.7#0
+0;A Principled Framework for Evaluating on Typologically Diverse Languages;evaluated_on;typologically diverse language selections;2026.cl-1.7;old;2026.cl-1.7#0
+0;A Principled Framework for Evaluating on Typologically Diverse Languages;evaluated_on;generalizability in multilingual model evaluation;2026.cl-1.7;old;2026.cl-1.7#0
+0;A Principled Framework for Evaluating on Typologically Diverse Languages;measured_by;range of metrics;2026.cl-1.7;old;2026.cl-1.7#0
+0;A Principled Framework for Evaluating on Typologically Diverse Languages;measured_by;typologically diverse language selections;2026.cl-1.7;old;2026.cl-1.7#0
+0;multilingual NLP;covers_language;multiple languages;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;covers_language;English;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;covers_language;other languages;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;designed_for;typological diversity;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;designed_for;multilingual evaluation scenarios;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;diverse languages;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;all languages in the world;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;diverse typological language sampling;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;downstream evaluation;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;dataset expansions;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;typology;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;low morphological complexity;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;English-centric perspective;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;phylogenetic heuristics;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;typological distance measures;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;language phylogeny;2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;typological distance between pairs of languages;2026.cl-1.7;old;2026.cl-1.7#1
+1;typologically diverse language sampling framework;has_statistic;4 measures of typological diversity;2026.cl-1.7;old;2026.cl-1.7#1
+1;A Principled Framework for Evaluating on Typologically Diverse Languages;introduces;typdiv-sampling (Python package);2026.cl-1.7;old;2026.cl-1.7#1
+0;multilingual NLP;evaluated_on;https://github.com/esther2000/typdiv-sampling;2026.cl-1.7;old;2026.cl-1.7#1
+0;Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models;covers_language;major languages;2025.tacl-1.4;old;2025.tacl-1.4#0
+0;Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models;covers_language;low-resource languages;2025.tacl-1.4;old;2025.tacl-1.4#0
+0;Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models;evaluated_on;approximately 80 words;2025.tacl-1.4;old;2025.tacl-1.4#0
+0;Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models;evaluated_on;512 words;2025.tacl-1.4;old;2025.tacl-1.4#0
+0;Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models;measured_by;human-aligned evaluation;2025.tacl-1.4;old;2025.tacl-1.4#0
+1;LLMs and Cultural Values: The Impact of Prompt Language and Explicit Cultural Framing;has_statistic;survey prompts in 11 languages;2026.cl-2.2;new;2026.cl-2.2#0
+1;LLMs and Cultural Values: The Impact of Prompt Language and Explicit Cultural Framing;has_statistic;10 LLMs probed;2026.cl-2.2;new;2026.cl-2.2#0
+1;LLMs and Cultural Values: The Impact of Prompt Language and Explicit Cultural Framing;evaluated_on;Hofstede Values Survey Module and World Values Survey (63 items);2026.cl-2.2;new;2026.cl-2.2#0
+0;LLMs and Cultural Values: The Impact of Prompt Language and Explicit Cultural Framing;evaluated_on;the Netherlands, Germany, the United States, and Japan;2026.cl-2.2;new;2026.cl-2.2#0
+0;Hofstede Values Survey Module;designed_for;business settings;2026.cl-2.2;new;2026.cl-2.2#4
+0;Hofstede Values Survey Module;designed_for;management context;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;designed_for;crosscultural studies;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;has_statistic;24 questions;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;has_statistic;answers on a 5-point Likert scale;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;has_statistic;6 dimensions;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;measured_by;Power Distance Index;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;measured_by;Motivation Towards Achievement and Success;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;measured_by;Uncertainty Avoidance Index;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;measured_by;Long-Term versus Short-Term Orientation;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;measured_by;Indulgence versus Restraint;2026.cl-2.2;new;2026.cl-2.2#4
+1;Hofstede Values Survey Module;has_statistic;dimension scores for over 100 countries/regions;2026.cl-2.2;new;2026.cl-2.2#4
+1;TurBLiMP;covers_language;Turkish;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+1;TurBLiMP;designed_for;evaluating the linguistic abilities of language models;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+0;TurBLiMP;evaluated_on;a wide range of LMs;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+0;TurBLiMP;evaluated_on;a newly collected set of human acceptability judgments;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+1;TurBLiMP;has_statistic;16 linguistic phenomena;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+1;TurBLiMP;has_statistic;1000 minimal pairs per phenomenon;2025.emnlp-main.834;new;2025.emnlp-main.834#0
+1;TurBLiMP: A Turkish Benchmark of Linguistic Minimal Pairs;introduces;TurBLiMP;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+0;TurBLiMP;covers_language;Turkish;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+0;TurBLiMP;designed_for;linguistic evaluation benchmarks;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+0;TurBLiMP;designed_for;linguistically motivated NLP research;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+0;TurBLiMP;designed_for;NLP researchers;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+0;TurBLiMP;designed_for;linguists;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+1;TurBLiMP;has_statistic;13 models evaluated;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+0;TurBLiMP;evaluated_on;16 Turkish phenomena;2025.emnlp-main.834;new;2025.emnlp-main.834#1
+1;Goldfish series;covers_language;Turkish;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;BERTurk;covers_language;Turkish;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;cosmosGPT;covers_language;Turkish;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Aya Expanse 8B;covers_language;Turkish;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;EuroLLM 9B;covers_language;Turkish;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;BERTurk;belongs_to_family;masked LM;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;cosmosGPT;derived_from;GPT-2;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;Aya Expanse 8B;designed_for;instruction-tuned;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;Gemma 3;designed_for;multilinguality;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;EuroLLM 9B;designed_for;coverage of European languages;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;BERTurk;has_statistic;185M parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;BERTurk;has_statistic;128k vocabulary;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;cosmosGPT;has_statistic;774M parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Qwen 2.5 7B;has_statistic;7B parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Llama 3.1 8B;has_statistic;8B parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Aya Expanse 8B;has_statistic;8B parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Gemma 2 7B;has_statistic;7B parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Gemma 3 4B;has_statistic;4B parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;EuroLLM 9B;has_statistic;9B parameters;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Goldfish series;has_statistic;training data sizes of 5MB, 10MB, 100MB and 1000MB;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;Goldfish series;has_statistic;10MB;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;Goldfish series;has_statistic;100MB;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+0;Goldfish series;has_statistic;1000MB;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Aya Expanse 8B;has_statistic;supports 23 languages;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;Gemma 3;has_statistic;supports over 140 languages;2025.emnlp-main.834;new;2025.emnlp-main.834#2
+1;TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages;introduces;TUMLU;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Azerbaijani;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Crimean Tatar;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Karakalpak;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Kazakh;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Kyrgyz;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Tatar;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Turkish;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Uyghur;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;covers_language;Uzbek;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;Kazakh;belongs_to_family;Turkic;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;designed_for;language understanding (MMLU-style) evaluation of Turkic languages;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;evaluated_on;Claude;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;evaluated_on;Gemini;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;evaluated_on;GPT;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;evaluated_on;LLaMA;2025.acl-long.1112;new;2025.acl-long.1112#0
+0;TUMLU;evaluated_on;multilingual large language models (LLMs);2025.acl-long.1112;new;2025.acl-long.1112#0
+0;TUMLU;evaluated_on;open and proprietary multilingual large language models (LLMs);2025.acl-long.1112;new;2025.acl-long.1112#0
+0;TUMLU;evaluated_on;different languages;2025.acl-long.1112;new;2025.acl-long.1112#0
+0;TUMLU;evaluated_on;subjects;2025.acl-long.1112;new;2025.acl-long.1112#0
+0;TUMLU;evaluated_on;alphabets;2025.acl-long.1112;new;2025.acl-long.1112#0
+0;TUMLU;evaluated_on;middle- and high-school level questions;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU;has_statistic;11 academic subjects;2025.acl-long.1112;new;2025.acl-long.1112#0
+0;TUMLU;evaluated_on;Turkic language MMLU;2025.acl-long.1112;new;2025.acl-long.1112#0
+1;TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages;introduces;TUMLU;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Azerbaijani;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Crimean Tatar;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Turkish;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Uyghur;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Uzbek;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Karakalpak;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Kyrgyz;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Kazakh;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;covers_language;Tatar;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;belongs_to_family;single-language family;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;evaluated_on;fewshot;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;evaluated_on;chain-of-thought (CoT) reasoning;2025.acl-long.1112;new;2025.acl-long.1112#2
+1;TUMLU;has_statistic;38139 questions;2025.acl-long.1112;new;2025.acl-long.1112#2
+1;TUMLU;has_statistic;8 languages;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU;has_statistic;11 subjects;2025.acl-long.1112;new;2025.acl-long.1112#2
+1;TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages;introduces;TUMLU-mini;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU-mini;evaluated_on;fewshot;2025.acl-long.1112;new;2025.acl-long.1112#2
+0;TUMLU-mini;evaluated_on;chain-of-thought (CoT) reasoning;2025.acl-long.1112;new;2025.acl-long.1112#2
+1;TUMLU-mini;has_statistic;100 questions per subject;2025.acl-long.1112;new;2025.acl-long.1112#2
+1;The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design;introduces;ru-en-RoSBERTa;2025.naacl-long.12;old;2025.naacl-long.12#0
+1;The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design;introduces;ruMTEB;2025.naacl-long.12;old;2025.naacl-long.12#0
+1;ruMTEB;derived_from;Massive Text Embedding Benchmark;2025.naacl-long.12;old;2025.naacl-long.12#0
+0;ru-en-RoSBERTa;belongs_to_family;RoSBERTa;2025.naacl-long.12;old;2025.naacl-long.12#0
+1;ru-en-RoSBERTa;covers_language;Russian;2025.naacl-long.12;old;2025.naacl-long.12#0
+0;ruMTEB;evaluated_on;Russian and multilingual models;2025.naacl-long.12;old;2025.naacl-long.12#0
+1;ruberttiny2;covers_language;Russian;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;SBERT-large-nlu-ru;covers_language;Russian;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;SBERT-large-mt-nlu-ru;covers_language;Russian;2025.naacl-long.12;old;2025.naacl-long.12#1
+0;The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design;introduces;ruBERT;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;enkodechka;designed_for;Russian text embedding evaluation;2025.naacl-long.12;old;2025.naacl-long.12#1
+0;The Russian-focused embedders' exploration: ruMTEB benchmark and Russian embedding model design;introduces;ruMTEB;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;MTEB;designed_for;text embedding evaluation;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;ruMTEB;has_statistic;23 text embedding tasks;2025.naacl-long.12;old;2025.naacl-long.12#1
+1;ruMTEB;has_statistic;17 new tasks;2025.naacl-long.12;old;2025.naacl-long.12#1
+0;ru-en-RoSBERTa;covers_language;Russian;2025.naacl-long.12;old;2025.naacl-long.12#2
+1;ru-en-RoSBERTa;covers_language;English;2025.naacl-long.12;old;2025.naacl-long.12#2
+1;ru-en-RoSBERTa;derived_from;ruRoBERTa;2025.naacl-long.12;old;2025.naacl-long.12#2
+0;ru-en-RoSBERTa;derived_from;RoBERTa;2025.naacl-long.12;old;2025.naacl-long.12#2
+0;ruRoBERTa;measured_by;11k steps;2025.naacl-long.12;old;2025.naacl-long.12#2
+0;ru-en-RoBERTa;covers_language;ru;2025.naacl-long.12;old;2025.naacl-long.12#3
+0;ru-en-RoBERTa;covers_language;en;2025.naacl-long.12;old;2025.naacl-long.12#3
+0;ru-en-RoBERTa;covers_language;RoBERTa;2025.naacl-long.12;old;2025.naacl-long.12#3
+0;ru-en-RoBERTa;derived_from;RoBERTa;2025.naacl-long.12;old;2025.naacl-long.12#3
+1;KazMMLU;covers_language;Kazakh;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;covers_language;Russian;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;designed_for;MMLU-style evaluation of Kazakh;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;evaluated_on;Llama3.1;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;evaluated_on;Qwen-2.5;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;evaluated_on;GPT-4;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;evaluated_on;DeepSeek V3;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;has_statistic;23,000 questions;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;has_statistic;10,969 Kazakh questions;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU;has_statistic;12,031 Russian questions;2025.acl-long.701;new;2025.acl-long.701#0
+1;KazMMLU: Evaluating Language Models on Kazakh, Russian, and Regional Knowledge of Kazakhstan;introduces;KazMMLU;2025.acl-long.701;new;2025.acl-long.701#1
+0;KazMMLU;covers_language;Kazakh;2025.acl-long.701;new;2025.acl-long.701#1
+0;KazMMLU;covers_language;Russian;2025.acl-long.701;new;2025.acl-long.701#1
+1;KazMMLU;derived_from;Massive Multitask Language Understanding (MMLU);2025.acl-long.701;new;2025.acl-long.701#1
+0;KazMMLU;has_statistic;48%;2025.acl-long.701;new;2025.acl-long.701#1
+0;KazMMLU;has_statistic;52%;2025.acl-long.701;new;2025.acl-long.701#1
+1;GPT-4o;measured_by;76.6% average accuracy on KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+1;DeepSeek V3;measured_by;76.9% average accuracy on KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+1;Gemma-2-27B-IT;measured_by;57.4% average accuracy on KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+1;Llama3.1- 70B;measured_by;56.2% average accuracy on KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+0;Gemma-2-27B-IT;measured_by;57.4%;2025.acl-long.701;new;2025.acl-long.701#4
+0;Llama3.1-70B-instruct;measured_by;55.7%;2025.acl-long.701;new;2025.acl-long.701#4
+1;Llama3.1-8B-instruct;measured_by;44.6% average accuracy on KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+1;Llama3.1-8B (base);measured_by;39.7% average accuracy on KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+1;Qwen-2.5-7B-Instruct;measured_by;58.9% on KazMMLU (3-shot, English prompt);2025.acl-long.701;new;2025.acl-long.701#4
+1;Qwen-2.5-7B-Instruct;measured_by;47.8% on KazMMLU (0-shot, English prompt);2025.acl-long.701;new;2025.acl-long.701#4
+1;GPT-4o;measured_by;76.9% on Kazakh high-school subjects of KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+1;DeepSeek V3;measured_by;81.4% on Russian high-school subjects of KazMMLU;2025.acl-long.701;new;2025.acl-long.701#4
+1;Llama3.1-70B;measured_by;57.7% on KazMMLU High School;2025.acl-long.701;new;2025.acl-long.701#4
+1;Llama3.1-70B;measured_by;53.2% on KazMMLU Professional & University;2025.acl-long.701;new;2025.acl-long.701#4
+0;Gemma-2-27B-IT;measured_by;57.4%;2025.acl-long.701;new;2025.acl-long.701#4
+0;DeepSeek V3;measured_by;57.4%;2025.acl-long.701;new;2025.acl-long.701#4
+1;BRAVE;designed_for;cross-language text classification;N16-1083;old;N16-1083#0
+0;BRAVE;evaluated_on;three different crosslanguage text classification tasks;N16-1083;old;N16-1083#0
+0;BRAVE;designed_for;multilingual text sequences;N16-1083;old;N16-1083#2
+1;BRAVE;derived_from;paragraph vector embeddings;N16-1083;old;N16-1083#2
+0;BRAVE;derived_from;Le and Mikolov, 2014;N16-1083;old;N16-1083#2
+1;Bilingual Word Embeddings from Parallel and Non-parallel Corpora for Cross-Language Text Classification;introduces;BRAVE (Bilingual paRAgraph VEctors);N16-1083;old;N16-1083#2
+0;Pham et al. (2015);designed_for;multilingual text sequences;N16-1083;old;N16-1083#2
+1;EP corpora (English-German, English-French, English-Spanish);has_statistic;around 1.9M sentence pairs per language pair;N16-1083;old;N16-1083#4
+1;BRAVE-S;derived_from;EP corpora;N16-1083;old;N16-1083#4
+1;BRAVE-D;derived_from;CL-APR;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;88.1;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;78.9;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;79.2;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;77.8;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;56.9;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;67.6;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;69.4;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;67.9;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;64.1;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;56.5;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;89.7;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;80.1;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;82.5;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;79.5;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;60.2;N16-1083;old;N16-1083#4
+0;BRAVE-S(EP);measured_by;70.4;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;70.4;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;70.6;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;66.2;N16-1083;old;N16-1083#4
+0;BRAVE-D(CL-APR);measured_by;57.6;N16-1083;old;N16-1083#4
+1;BRAVE-S approach;evaluated_on;TED corpus;N16-1083;old;N16-1083#4
+1;TED corpus;has_statistic;12 languages;N16-1083;old;N16-1083#4
+1;TED corpus;has_statistic;15 topics (class labels);N16-1083;old;N16-1083#4
+0;Bilingual Word Embeddings from Parallel and Non-parallel Corpora for Cross-Language Text Classification;introduces;4.4.3 Cross-language Sentiment Classification (CLSC);N16-1083;old;N16-1083#5
+0;4.4.3 Cross-language Sentiment Classification (CLSC);covers_language;target language;N16-1083;old;N16-1083#5
+0;4.4.3 Cross-language Sentiment Classification (CLSC);covers_language;source language;N16-1083;old;N16-1083#5
+1;CL-APR;designed_for;cross-language sentiment classification;N16-1083;old;N16-1083#5
+1;CL-APR;derived_from;Amazon product reviews;N16-1083;old;N16-1083#5
+0;xLiD-Lexica;covers_language;multilingual;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;designed_for;cross-lingual information access;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;designed_for;natural language generation;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;designed_for;cross-lingual entity linking;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;designed_for;text annotation;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;designed_for;question answering;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;derived_from;multilingual Wikipedia;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;derived_from;linked data resources from Linked Open Data;L14-1232;old;L14-1232#0
+1;xLiD-Lexica;covers_language;English;L14-1232;old;L14-1232#2
+1;xLiD-Lexica;covers_language;German;L14-1232;old;L14-1232#2
+1;xLiD-Lexica;covers_language;Spanish;L14-1232;old;L14-1232#2
+1;xLiD-Lexica;covers_language;Chinese;L14-1232;old;L14-1232#2
+0;disambiguation page for the name “New York”;has_statistic;more than 30 associated resources;L14-1232;old;L14-1232#2
+0;anchor texts “NY”;has_statistic;more than 400 times;L14-1232;old;L14-1232#2
+1;RECSA: Resource for Evaluating Cross-lingual Semantic Annotation;introduces;RECSA;L14-1746;old;L14-1746#0
+0;Resource for Evaluating Cross-lingual Semantic Annotation;covers_language;English;L14-1746;old;L14-1746#0
+0;Resource for Evaluating Cross-lingual Semantic Annotation;covers_language;German;L14-1746;old;L14-1746#0
+1;RECSA;derived_from;English Wikipedia;L14-1746;old;L14-1746#0
+1;RECSA;derived_from;DBPedia;L14-1746;old;L14-1746#0
+1;RECSA;has_statistic;300 news articles;L14-1746;old;L14-1746#0
+1;RECSA;covers_language;English;L14-1746;old;L14-1746#3
+1;RECSA;covers_language;German;L14-1746;old;L14-1746#3
+1;RECSA;covers_language;Spanish;L14-1746;old;L14-1746#3
+0;RECSA;evaluated_on;English;L14-1746;old;L14-1746#3
+0;RECSA;evaluated_on;German;L14-1746;old;L14-1746#3
+0;RECSA;evaluated_on;Spanish;L14-1746;old;L14-1746#3
+1;RECSA;has_statistic;74,337 English tokens;L14-1746;old;L14-1746#3
+1;RECSA;has_statistic;79,146 German tokens;L14-1746;old;L14-1746#3
+1;RECSA;has_statistic;77,476 Spanish tokens;L14-1746;old;L14-1746#3
+0;RECSA;measured_by;27.дек;L14-1746;old;L14-1746#3
+0;RECSA;measured_by;34.62;L14-1746;old;L14-1746#3
+0;RECSA;measured_by;27.36;L14-1746;old;L14-1746#3
+1;XLike project;covers_language;English;L14-1746;old;L14-1746#3
+1;XLike project;covers_language;German;L14-1746;old;L14-1746#3
+1;XLike project;covers_language;Spanish;L14-1746;old;L14-1746#3
+0;XLike project;derived_from;Padró et al. 2014;L14-1746;old;L14-1746#3
+1;Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets;covers_language;German;2025.acl-srw.4;old;2025.acl-srw.4#0
+1;Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets;evaluated_on;German Twitter data;2025.acl-srw.4;old;2025.acl-srw.4#0
+1;Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets;designed_for;topic labeling;2025.acl-srw.4;old;2025.acl-srw.4#0
+0;Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets;designed_for;social media;2025.acl-srw.4;old;2025.acl-srw.4#0
+0;Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets;designed_for;news analytics;2025.acl-srw.4;old;2025.acl-srw.4#0
+0;Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets;designed_for;social and political European crises;2025.acl-srw.4;old;2025.acl-srw.4#0
+0;generative NLP technologies;covers_language;multilingual;2025.acl-srw.4;old;2025.acl-srw.4#1

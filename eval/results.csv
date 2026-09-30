@@ -1,0 +1,613 @@
+question,condition,split,gold,answer,correct,reply
+0,small,new,B,C,0,C
+0,small+KG,new,B,B,1,B
+0,mid,new,B,B,1,B
+1,small,new,B,-,0,I do not have access to the specific benchmark details for the MultiBLiMP 1.0 benchmark to definitively state the exact number of minimal pairs
+1,small+KG,new,B,B,1,B
+1,mid,new,B,B,1,B
+2,small,new,D,A,0,"The correct answer is **A**.
+
+The first version of the MultiBLiMP benchmark included **42** languages.
+
+A"
+2,small+KG,new,D,D,1,D
+2,mid,new,D,A,0,A
+3,small,new,B,B,1,B
+3,small+KG,new,B,D,0,D
+3,mid,new,B,B,1,B
+4,small,new,B,-,0,"I do not have access to specific, internal data about the training of a model named ""Aya-expanse."" Therefore, I cannot definitively"
+4,small+KG,new,B,B,1,B
+4,mid,new,B,B,1,B
+5,small,new,A,-,0,"I do not have specific, real-time knowledge about the exact parameter counts for all models in a proprietary suite like ""Goldfish."" This information is"
+5,small+KG,new,A,A,1,A
+5,mid,new,A,D,0,D
+6,small,new,D,A,0,A
+6,small+KG,new,D,A,0,A
+6,mid,new,D,D,1,D
+7,small,new,C,-,0,I do not have access to the specific MERLIN dataset or the ability to query external datasets to determine the exact number of unique Wikidata entities linked within it
+7,small+KG,new,C,C,1,C
+7,mid,new,C,C,1,C
+8,small,new,A,-,0,"The MERLIN dataset is a corpus of text primarily focused on **English**.
+
+Since the options provided are Tamil, Korean, Arabic, and Mandarin,"
+8,small+KG,new,A,A,1,A
+8,mid,new,A,C,0,C
+9,small,new,A,C,0,C
+9,small+KG,new,A,C,0,C
+9,mid,new,A,A,1,A
+10,small,new,D,-,0,"I do not have access to the specific details or documentation of the MERLIN dataset to definitively answer this question. Therefore, I cannot select the correct option"
+10,small+KG,new,D,D,1,D
+10,mid,new,D,D,1,D
+11,small,new,A,B,0,B
+11,small+KG,new,A,B,0,B
+11,mid,new,A,A,1,A
+12,small,new,A,-,0,"I do not have access to external databases or specific benchmark scores for ""mGENRE"" on the Hindi language benchmark. Therefore, I cannot definitively determine"
+12,small+KG,new,A,A,1,A
+12,mid,new,A,C,0,C
+13,small,new,B,-,0,"I do not have access to the specific internal data or results of a trie built on Wikipedia English titles for mGENRE. Therefore, I cannot"
+13,small+KG,new,B,-,0,"The provided facts list information about language coverage and evaluation for the `mGENRE` model, and lists various language models.
+
+The question asks about"
+13,mid,new,B,B,1,B
+14,small,new,D,A,0,A
+14,small+KG,new,D,D,1,D
+14,mid,new,D,C,0,C
+15,small,new,C,-,0,"The provided text does not contain information about the languages included in the BharatBBQ benchmark. Therefore, I cannot definitively answer the question based solely on the"
+15,small+KG,new,C,D,0,D
+15,mid,new,C,C,1,C
+16,small,new,A,C,0,C
+16,small+KG,new,A,A,1,A
+16,mid,new,A,A,1,A
+17,small,new,A,-,0,"I do not have specific, real-time access to the detailed documentation or benchmark specifications for the ""BharatBBQ"" benchmark. Therefore, I cannot"
+17,small+KG,new,A,B,0,B
+17,mid,new,A,C,0,C
+18,small,new,C,C,1,C
+18,small+KG,new,C,C,1,C
+18,mid,new,C,C,1,C
+19,small,new,D,C,0,C
+19,small+KG,new,D,C,0,C
+19,mid,new,D,D,1,D
+20,small,new,B,B,1,B
+20,small+KG,new,B,B,1,B
+20,mid,new,B,B,1,B
+21,small,new,A,-,0,"I do not have access to the specific details or documentation regarding the construction of the BharatBBQ benchmark. Therefore, I cannot definitively answer how many transformation"
+21,small+KG,new,A,D,0,D
+21,mid,new,A,D,0,D
+22,small,new,C,C,1,C
+22,small+KG,new,C,C,1,C
+22,mid,new,C,C,1,C
+23,small,new,C,C,1,C
+23,small+KG,new,C,C,1,C
+23,mid,new,C,C,1,C
+24,small,new,B,B,1,B
+24,small+KG,new,B,B,1,B
+24,mid,new,B,B,1,B
+25,small,new,C,C,1,C
+25,small+KG,new,C,C,1,C
+25,mid,new,C,C,1,C
+26,small,new,B,D,0,D
+26,small+KG,new,B,D,0,D
+26,mid,new,B,B,1,B
+27,small,new,A,-,0,I do not have access to the specific data or context required to answer this question. Please provide the text or data from which this question is derived so
+27,small+KG,new,A,-,0,"Based on the provided facts, there is no information stating how many ID-MoCQA questions were answered by the recruited human participants.
+
+Therefore,"
+27,mid,new,A,A,1,A
+28,small,old,D,D,1,D
+28,small+KG,old,D,D,1,D
+28,mid,old,D,D,1,D
+29,small,old,D,A,0,A
+29,small+KG,old,D,D,1,D
+29,mid,old,D,B,0,B
+30,small,old,B,D,0,D
+30,small+KG,old,B,D,0,D
+30,mid,old,B,B,1,B
+31,small,old,D,D,1,D
+31,small+KG,old,D,D,1,D
+31,mid,old,D,D,1,D
+32,small,old,D,D,1,D
+32,small+KG,old,D,D,1,D
+32,mid,old,D,D,1,D
+33,small,old,B,-,0,"I do not have access to the specific details or dataset statistics for the Meta4XNLI dataset. Therefore, I cannot definitively answer this question."
+33,small+KG,old,B,-,0,"The provided text lists the features and design goals of the Meta4XNLI dataset, but it **does not contain the specific size of the parallel"
+33,mid,old,B,B,1,B
+34,small,old,B,A,0,A
+34,small+KG,old,B,A,0,A
+34,mid,old,B,B,1,B
+35,small,old,C,C,1,"The most likely answer, based on common practices and typical constraints in large language model fine-tuning, is **C) 512**.
+
+"
+35,small+KG,old,C,C,1,"The most likely answer, based on common practices and typical constraints in large language model fine-tuning, is **C) 512**.
+
+"
+35,mid,old,C,C,1,C
+36,small,old,C,-,0,"I do not have access to the specific results of the Meta4XNLI metaphor-interpretation experiments with encoder-only models. Therefore, I cannot"
+36,small+KG,old,C,-,0,"I do not have access to the specific experimental results of the ""Meta4XNLI metaphor-interpretation experiments with encoder-only models"" to determine"
+36,mid,old,C,D,0,D
+37,small,old,D,-,0,"I do not have access to the specific results of the ""Meta4XNLI metaphor-interpretation experiments with encoder-only models."" Therefore, I"
+37,small+KG,old,D,-,0,"I do not have access to the specific experimental results of the Meta4XNLI metaphor-interpretation experiments with encoder-only models. Therefore, I"
+37,mid,old,D,C,0,C
+38,small,old,B,-,0,"I do not have access to the specific experimental results of the Meta4XNLI NLI experiments with decoder-only models. Therefore, I cannot"
+38,small+KG,old,B,-,0,I do not have access to the specific experimental results of the Meta4XNLI NLI experiments with decoder-only models to determine the maximum number
+38,mid,old,B,C,0,C
+39,small,old,A,-,0,"Based on common practices in NLP research, especially when dealing with temperature settings for decoder-only models in NLI tasks, the options provided suggest a range"
+39,small+KG,old,A,-,0,"I do not have access to the specific experimental details, such as the sampling temperature used for decoder-only models in the Meta4XNLI N"
+39,mid,old,A,A,1,A
+40,small,old,B,A,0,"The DiBiMT benchmark investigates **five** language combinations.
+
+A"
+40,small+KG,old,B,A,0,"The DiBiMT benchmark investigates **five** language combinations.
+
+A"
+40,mid,old,B,C,0,C
+41,small,old,B,B,1,B
+41,small+KG,old,B,B,1,B
+41,mid,old,B,B,1,B
+42,small,old,D,B,0,B
+42,small+KG,old,D,B,0,B
+42,mid,old,D,D,1,D
+43,small,old,D,D,1,D
+43,small+KG,old,D,D,1,D
+43,mid,old,D,C,0,C
+44,small,old,B,B,1,B
+44,small+KG,old,B,B,1,B
+44,mid,old,B,D,0,D
+45,small,old,A,-,0,"The question refers to a specific ""extended benchmark"" which is not explicitly defined in the prompt. However, based on the options provided, we can analyze"
+45,small+KG,old,A,-,0,"The question refers to a specific ""extended benchmark"" which is not explicitly defined in the prompt. However, based on the options provided, we can analyze"
+45,mid,old,A,C,0,C
+46,small,old,D,B,0,B
+46,small+KG,old,D,B,0,B
+46,mid,old,D,B,0,B
+47,small,old,C,B,0,B
+47,small+KG,old,C,B,0,B
+47,mid,old,C,C,1,C
+48,small,old,C,A,0,A
+48,small+KG,old,C,A,0,A
+48,mid,old,C,B,0,B
+49,small,old,D,D,1,D
+49,small+KG,old,D,D,1,D
+49,mid,old,D,D,1,D
+50,small,old,A,-,0,"Based on the provided information, I do not have access to the specific study, dataset, or context that contains the Pearson correlation value between WSD and"
+50,small+KG,old,A,-,0,"Based on the provided information, I do not have access to the specific study, dataset, or context that contains the Pearson correlation value between WSD and"
+50,mid,old,A,C,0,C
+51,small,old,B,C,0,C
+51,small+KG,old,B,C,0,C
+51,mid,old,B,A,0,A
+52,small,old,C,A,0,"The correct answer is **A**.
+
+The MURI-IT dataset is known to contain **1 million** instruction-output pairs.
+
+A"
+52,small+KG,old,C,C,1,C
+52,mid,old,C,C,1,C
+53,small,old,A,B,0,B
+53,small+KG,old,A,A,1,A
+53,mid,old,A,C,0,C
+54,small,old,A,-,0,"Based on general trends in large language model (LLM) instruction tuning datasets, English is overwhelmingly the dominant language.
+
+Therefore, the most likely answer"
+54,small+KG,old,A,-,0,"The provided facts list several models and datasets, and for each, it specifies the language it covers.
+
+Let's count the number of items and"
+54,mid,old,A,A,1,A
+55,small,old,D,D,1,D
+55,small+KG,old,D,D,1,D
+55,mid,old,D,D,1,D
+56,small,old,D,D,1,"The correct answer is **D) 2,228,499**.
+
+This is the known size of the MURI-IT"
+56,small+KG,old,D,D,1,D
+56,mid,old,D,D,1,D
+57,small,old,D,-,0,"The question asks which model outperforms mT0 by over 14% in multilingual MMLU when fine-tuned with MURI-IT.
+
+"
+57,small+KG,old,D,-,0,The provided facts do not contain enough information to determine which model outperforms mT0 by over 14% in multilingual MMLU when fine-tuned
+57,mid,old,D,A,0,A
+58,small,old,C,C,1,C
+58,small+KG,old,C,C,1,C
+58,mid,old,C,B,0,B
+59,small,old,C,-,0,"I do not have access to the specific configuration details or training parameters of the MURI-101 model. Therefore, I cannot definitively tell you"
+59,small+KG,old,C,-,0,"Based on the provided facts, there is **no information** about the fixed learning rate used during the training of the MURI-101 model"
+59,mid,old,C,C,1,C
+60,small,new,B,B,1,B
+60,small+KG,new,B,D,0,D
+60,mid,new,B,C,0,C
+61,small,new,C,C,1,C
+61,small+KG,new,C,C,1,C
+61,mid,new,C,C,1,C
+62,small,new,C,-,0,"Based on common practices and the nature of few-shot learning in multilingual QA, the number of supervised samples per language is often kept relatively small to effectively"
+62,small+KG,new,C,C,1,C
+62,mid,new,C,D,0,D
+63,small,new,A,D,0,D
+63,small+KG,new,A,D,0,D
+63,mid,new,A,C,0,C
+64,small,new,C,-,0,"Based on common practices in language adaptation experiments for models like FSMODQA, the number of languages tested is often a specific parameter of the study. Without"
+64,small+KG,new,C,C,1,C
+64,mid,new,C,C,1,C
+65,small,new,A,-,0,"I do not have access to the specific research paper or data that contains the results for ""FSMODQA"" on multilingual open-domain QA over competitive"
+65,small+KG,new,A,A,1,A
+65,mid,new,A,C,0,C
+66,small,new,D,C,0,C
+66,small+KG,new,D,-,0,"The provided text describes the characteristics and performance of the **FSMODQA** model, but it does not explicitly state which dataset it was evaluated on."
+66,mid,new,D,D,1,D
+67,small,new,D,B,0,B
+67,small+KG,new,D,B,0,B
+67,mid,new,D,B,0,B
+68,small,new,B,-,0,"I do not have access to the specific internal details or data generation statistics of FSMODQA's self-supervised data construction. Therefore, I cannot"
+68,small+KG,new,B,-,0,"Based on the provided facts, there is **no information** about the number of triplets generated by FSMODQA's self-supervised data construction for"
+68,mid,new,B,B,1,B
+69,small,new,D,D,1,D
+69,small+KG,new,D,-,0,"The provided text describes the characteristics and performance of the FSMODQA model but **does not contain information about the checkpoint from which it is initialized.**
+
+"
+69,mid,new,D,D,1,D
+70,small,new,D,-,0,"I do not have access to the specific research paper or data that compares FSMODQA to supervised CORA and CLASS on MKQA. Therefore, I"
+70,small+KG,new,D,-,0,"Based on the provided facts, there is **no information** about the percentage improvement of FSMODQA compared to supervised CORA and CLASS on MKQA"
+70,mid,new,D,D,1,D
+71,small,old,B,B,1,B
+71,small+KG,old,B,B,1,B
+71,mid,old,B,B,1,B
+72,small,old,D,D,1,D
+72,small+KG,old,D,D,1,D
+72,mid,old,D,D,1,D
+73,small,old,C,C,1,C
+73,small+KG,old,C,C,1,C
+73,mid,old,C,C,1,C
+74,small,old,D,D,1,D
+74,small+KG,old,D,D,1,D
+74,mid,old,D,D,1,D
+75,small,old,A,A,1,A
+75,small+KG,old,A,A,1,A
+75,mid,old,A,A,1,A
+76,small,old,A,A,1,A
+76,small+KG,old,A,A,1,A
+76,mid,old,A,A,1,A
+77,small,old,B,-,0,"To answer this question accurately, I need to consult the specific paper by Razumovskaia et al. regarding the XNLI dataset. Since"
+77,small+KG,old,B,-,0,"To answer this question accurately, I need to consult the specific paper by Razumovskaia et al. regarding the XNLI dataset. Since"
+77,mid,old,B,D,0,D
+78,small,old,C,C,1,C
+78,small+KG,old,C,C,1,C
+78,mid,old,C,C,1,C
+79,small,old,A,D,0,D
+79,small+KG,old,A,D,0,D
+79,mid,old,A,A,1,A
+80,small,old,A,-,0,"To answer this question, I need access to the comparison data or the context that describes the number of demonstrations used for ICL across all models. Since"
+80,small+KG,old,A,-,0,"To answer this question, I need access to the comparison data or the context that describes the number of demonstrations used for ICL across all models. Since"
+80,mid,old,A,-,0,"Based on the standard benchmarks and common research papers involving In-Context Learning (ICL) comparisons (such as those evaluating GPT-4, Llama"
+81,small,old,A,A,1,A
+81,small+KG,old,A,A,1,A
+81,mid,old,A,A,1,A
+82,small,new,A,A,1,A
+82,small+KG,new,A,A,1,A
+82,mid,new,A,A,1,A
+83,small,new,B,-,0,"I do not have access to the specific performance metrics or benchmark data for ""CorefInst"" and ""CorPipe24"" across ""Coref"
+83,small+KG,new,B,-,0,"The fact states: ""CorefInst | measured_by | 2 percentage points better than CorPipe24 on average across CorefUD v1"
+83,mid,new,B,C,0,C
+84,small,new,C,A,0,A
+84,small+KG,new,C,C,1,C
+84,mid,new,C,A,0,A
+85,small,new,B,B,1,B
+85,small+KG,new,B,-,0,I do not have access to the specific details of the fine-tuning parameters (like the LoRA rank) used in the CorefInst study based
+85,mid,new,B,B,1,B
+86,small,new,D,-,0,"The provided text does not contain information about the number of training examples taken from each dataset in CorefInst's few-shot setting. Therefore,"
+86,small+KG,new,D,-,0,I do not have enough information in the provided text to determine how many training examples are taken from each dataset in CorefInst's few-shot
+86,mid,new,D,B,0,B
+87,small,new,B,B,1,B
+87,small+KG,new,B,B,1,B
+87,mid,new,B,B,1,B
+88,small,new,C,C,1,C
+88,small+KG,new,C,-,0,"I do not have access to the full text or specific methodological details of the ""CorefInst"" study to determine the exact confidence level used for the Almost"
+88,mid,new,C,C,1,C
+89,small,new,D,A,0,A
+89,small+KG,new,D,D,1,D
+89,mid,new,D,D,1,D
+90,small,new,B,-,0,"I do not have access to specific, proprietary benchmark results or detailed comparative studies like the one you are referencing between CorefInst and CorPipe24"
+90,small+KG,new,B,-,0,"The provided facts state:
+* ""CorefInst | measured_by | CoNLL coreference metric""
+* ""CorPipe24 |"
+90,mid,new,B,C,0,C
+91,small,old,D,D,1,D
+91,small+KG,old,D,D,1,D
+91,mid,old,D,C,0,C
+92,small,old,A,-,0,"Based on common practices in large language model adaptation studies, especially those focusing on vocabulary expansion in low-resource settings, the scale of data used is often"
+92,small+KG,old,A,-,0,"Based on common practices in large language model adaptation studies, especially those focusing on vocabulary expansion in low-resource settings, the scale of data used is often"
+92,mid,old,A,B,0,B
+93,small,old,A,-,0,"I do not have access to the specific content of ""Yamaguchi et al.'s study of vocabulary expansion for LLMs in low-resource settings."""
+93,small+KG,old,A,-,0,"Based on the provided text, I do not have access to the content of ""Yamaguchi et al.'s study of vocabulary expansion for LLMs in"
+93,mid,old,A,D,0,D
+94,small,old,C,D,0,D
+94,small+KG,old,C,D,0,D
+94,mid,old,C,C,1,C
+95,small,old,B,-,0,"To answer this question accurately, I would need access to the specific study by Yamaguchi et al. regarding vocabulary expansion for LLMs in low-resource settings"
+95,small+KG,old,B,B,1,B
+95,mid,old,B,B,1,B
+96,small,old,A,A,1,A
+96,small+KG,old,A,-,0,"The provided text lists various LLMs, datasets, and research papers, but it **does not contain the specific information** about the dataset used in Yamaguchi"
+96,mid,old,A,A,1,A
+97,small,old,A,-,0,"Based on common practices in large language model research, especially when dealing with vocabulary expansion and low-resource settings, the sample sizes for generation tasks are often"
+97,small+KG,old,A,-,0,"I do not have access to the full text of the paper ""How Can We Effectively Expand the Vocabulary of LLMs with 0.01GB"
+97,mid,old,A,B,0,B
+98,small,old,B,C,0,C
+98,small+KG,old,B,C,0,C
+98,mid,old,B,D,0,D
+99,small,old,B,A,0,A
+99,small+KG,old,B,A,0,A
+99,mid,old,B,C,0,C
+100,small,old,A,A,1,A
+100,small+KG,old,A,A,1,A
+100,mid,old,A,B,0,B
+101,small,old,A,A,1,A
+101,small+KG,old,A,A,1,A
+101,mid,old,A,A,1,A
+102,small,old,A,A,1,A
+102,small+KG,old,A,A,1,A
+102,mid,old,A,A,1,A
+103,small,old,B,B,1,B
+103,small+KG,old,B,B,1,B
+103,mid,old,B,B,1,B
+104,small,old,D,-,0,"I do not have access to the specific content of ""Kurz et al.'s study of calibration languages in multilingual LLM pruning."" Therefore, I"
+104,small+KG,old,D,-,0,"I do not have access to the specific content of ""Kurz et al.'s study of calibration languages in multilingual LLM pruning."" Therefore, I"
+104,mid,old,D,C,0,C
+105,small,old,B,C,0,C
+105,small+KG,old,B,C,0,C
+105,mid,old,B,B,1,B
+106,small,old,C,-,0,"Based on common practices in large-scale LLM evaluation and the options provided, I need to rely on external knowledge of Kurz et al.'s specific"
+106,small+KG,old,C,-,0,"Based on common practices in large-scale LLM evaluation and the options provided, I need to rely on external knowledge of Kurz et al.'s specific"
+106,mid,old,C,C,1,C
+107,small,old,A,A,1,A
+107,small+KG,old,A,A,1,A
+107,mid,old,A,A,1,A
+108,small,old,B,B,1,B
+108,small+KG,old,B,B,1,B
+108,mid,old,B,B,1,B
+109,small,old,C,C,1,C
+109,small+KG,old,C,C,1,C
+109,mid,old,C,C,1,C
+110,small,old,B,B,1,B
+110,small+KG,old,B,B,1,B
+110,mid,old,B,B,1,B
+111,small,old,A,A,1,"The correct answer is **A**.
+
+**Explanation:**
+
+The question refers to a specific finding in linguistic research regarding the features used for entropy in a"
+111,small+KG,old,A,A,1,"The correct answer is **A**.
+
+**Explanation:**
+
+The question refers to a specific study (Ponti et al., 2020"
+111,mid,old,A,B,0,B
+112,small,old,A,-,0,I do not have access to the specific content of the paper by Ponti et al. (2020) or the review by Ploeger
+112,small+KG,old,A,-,0,I do not have access to the specific content of the paper by Ponti et al. (2020) or the review by Ploeger
+112,mid,old,A,D,0,D
+113,small,old,D,B,0,B
+113,small+KG,old,D,B,0,B
+113,mid,old,D,B,0,B
+114,small,old,B,A,0,A
+114,small+KG,old,B,A,0,A
+114,mid,old,B,A,0,A
+115,small,old,C,B,0,B
+115,small+KG,old,C,D,0,D
+115,mid,old,C,B,0,B
+116,small,old,C,-,0,"The provided text is a title or a topic description (""Salute the Classic"" (revisiting MT challenges in the age of LLMs)) and"
+116,small+KG,old,C,-,0,"I do not have access to the content of the paper ""Salute the Classic (revisiting MT challenges in the age of LLMs)"" to"
+116,mid,old,C,C,1,C
+117,small,old,C,C,1,C
+117,small+KG,old,C,D,0,D
+117,mid,old,C,C,1,C
+118,small,old,B,-,0,"I do not have access to the specific details of the dataset or sampling parameters for the paper ""Salute the Classic"" regarding the number of German-"
+118,small+KG,old,B,D,0,D
+118,mid,old,B,C,0,C
+119,small,old,C,-,0,"I do not have specific, real-time knowledge about the exact hardware configuration (number of A100 GPUs) used for training specific LLMs"
+119,small+KG,old,C,-,0,"I do not have specific, real-time knowledge about the exact hardware configuration (like the number of A100 GPUs) used for training specific"
+119,mid,old,C,D,0,D
+120,small,old,C,C,1,C
+120,small+KG,old,C,C,1,C
+120,mid,old,C,C,1,C
+121,small,new,D,D,1,"The correct answer is **D**.
+
+According to Bulté and Rigouts Terryn's study, LLMs are systematically biased towards the values"
+121,small+KG,new,D,D,1,"The correct answer is **D**.
+
+According to Bulté and Rigouts Terryn's study, LLMs are systematically biased towards the values"
+121,mid,new,D,D,1,D
+122,small,new,A,-,0,I do not have access to the specific details of Bulté and Rigouts Terryn's study to determine the exact number of languages the survey
+122,small+KG,new,A,-,0,I do not have access to the specific details of Bulté and Rigouts Terryn's study to determine the exact number of languages the survey
+122,mid,new,A,B,0,B
+123,small,new,D,D,1,D
+123,small+KG,new,D,D,1,D
+123,mid,new,D,D,1,D
+124,small,new,B,-,0,I do not have access to the specific dataset mentioned in the question regarding Bulté and Rigouts Terryn's study of LLMs and cultural
+124,small+KG,new,B,-,0,I do not have access to the specific dataset mentioned in the question regarding Bulté and Rigouts Terryn's study of LLMs and cultural
+124,mid,new,B,A,0,A
+125,small,new,C,B,0,B
+125,small+KG,new,C,C,1,C
+125,mid,new,C,C,1,C
+126,small,new,D,D,1,D
+126,small+KG,new,D,D,1,D
+126,mid,new,D,D,1,D
+127,small,new,D,-,0,"I do not have access to the specific details of Bulté and Rigouts Terryn's study to definitively answer this question. Therefore, I"
+127,small+KG,new,D,-,0,"I do not have access to the specific details of Bulté and Rigouts Terryn's study to definitively answer this question. Therefore, I"
+127,mid,new,D,D,1,D
+128,small,new,A,D,0,D
+128,small+KG,new,A,D,0,D
+128,mid,new,A,A,1,A
+129,small,new,C,-,0,"I do not have access to the specific details of Bulté and Rigouts Terryn's study to definitively answer this question. Therefore, I"
+129,small+KG,new,C,-,0,"Based on the context of studies involving Hofstede's cultural dimensions and the languages mentioned in the options, I need external knowledge about Bulté"
+129,mid,new,C,B,0,B
+130,small,new,A,-,0,"I do not have access to the specific details of the TurBLiMP benchmark to definitively answer how many linguistic phenomena it covers. Therefore, I cannot"
+130,small+KG,new,A,A,1,A
+130,mid,new,A,B,0,B
+131,small,new,B,B,1,B
+131,small+KG,new,B,B,1,B
+131,mid,new,B,C,0,C
+132,small,new,C,B,0,B
+132,small+KG,new,C,B,0,B
+132,mid,new,C,C,1,C
+133,small,new,A,-,0,The question asks to identify the **only masked language model (MLM)** among the **monolingual models** evaluated on **TurBLiMP
+133,small+KG,new,A,-,0,"The provided text describes the TurBLiMP benchmark and its characteristics, including the number of models evaluated (13 models). However, the text **"
+133,mid,new,A,A,1,A
+134,small,new,B,-,0,"I do not have specific, real-time access to the exact details of the ""TUMLU benchmark"" to definitively state the number of academic subjects"
+134,small+KG,new,B,B,1,B
+134,mid,new,B,B,1,B
+135,small,new,A,B,0,B
+135,small+KG,new,A,A,1,A
+135,mid,new,A,C,0,C
+136,small,new,B,B,1,B
+136,small+KG,new,B,B,1,B
+136,mid,new,B,B,1,B
+137,small,new,D,B,0,B
+137,small+KG,new,D,D,1,D
+137,mid,new,D,B,0,B
+138,small,new,A,-,0,"I do not have access to specific details about the question count in the ""TUMLU-mini"" version. Please provide the relevant text or context"
+138,small+KG,new,A,A,1,A
+138,mid,new,A,D,0,D
+139,small,new,D,B,0,B
+139,small+KG,new,D,D,1,D
+139,mid,new,D,C,0,C
+140,small,old,D,B,0,B
+140,small+KG,old,D,D,1,D
+140,mid,old,D,D,1,D
+141,small,old,D,-,0,"The provided text does not contain information about the number of categories of tasks in the ruMTEB benchmark. Therefore, I cannot determine the correct answer"
+141,small+KG,old,D,D,1,D
+141,mid,old,D,C,0,C
+142,small,old,C,C,1,C
+142,small+KG,old,C,C,1,C
+142,mid,old,C,C,1,C
+143,small,old,C,-,0,"I do not have access to real-time information or specific details about the release notes of the ruMTEB benchmark. Therefore, I cannot definitively"
+143,small+KG,old,C,C,1,C
+143,mid,old,C,C,1,C
+144,small,old,C,C,1,C
+144,small+KG,old,C,C,1,C
+144,mid,old,C,C,1,C
+145,small,old,B,-,0,The provided text does not contain the specific information about the batch size used for the MLM training that adapts ru-en-RoSBERTa's
+145,small+KG,old,B,-,0,"Based on the provided facts, there is **no information** about the batch size used for the MLM training that adapts ru-en-RoSBER"
+145,mid,old,B,C,0,C
+146,small,old,C,B,0,"The correct answer is **B**.
+
+**Explanation:**
+
+In many self-supervised learning methods that employ contrastive learning, such as InfoNCE loss"
+146,small+KG,old,C,-,0,"Based solely on the provided facts, there is **no information** about the fixed temperature used for the InfoNCE contrastive loss when training `ru-"
+146,mid,old,C,C,1,C
+147,small,old,A,-,0,I do not have access to the specific configuration details of the contrastive fine-tuning of the `ru-en-RoSBERTa` model
+147,small+KG,old,A,-,0,I do not have access to the specific details of the research paper or the implementation of the contrastive fine-tuning for the `ru-en-
+147,mid,old,A,D,0,D
+148,small,new,B,C,0,C
+148,small+KG,new,B,C,0,C
+148,mid,new,B,C,0,C
+149,small,new,D,C,0,C
+149,small+KG,new,D,D,1,D
+149,mid,new,D,D,1,D
+150,small,new,B,-,0,"I do not have access to the specific statistics of the KazMMLU dataset to definitively answer this question. Therefore, I cannot select the correct option"
+150,small+KG,new,B,-,0,"The facts state:
+* KazMMLU has_statistic 23,000 questions
+* KazMMLU has_statistic"
+150,mid,new,B,C,0,C
+151,small,new,B,B,1,B
+151,small+KG,new,B,B,1,B
+151,mid,new,B,B,1,B
+152,small,new,B,-,0,"I do not have access to the specific evaluation results or datasets for KazMMLU to determine the exact number of multilingual LLMs evaluated. Therefore,"
+152,small+KG,new,B,-,0,"The facts state the following models are evaluated on KazMMLU:
+* Llama3.1
+* Qwen-2.5
+"
+152,mid,new,B,B,1,B
+153,small,new,C,C,1,C
+153,small+KG,new,C,-,0,"The provided facts list models that cover specific languages:
+
+*   **Kazakh:** TUMLU, KazMMLU
+*   **Russian"
+153,mid,new,C,B,0,B
+154,small,new,A,-,0,"I do not have access to the specific internal workings or metrics of the ""KazMMLU negation filter."" Therefore, I cannot definitively tell you how"
+154,small+KG,new,A,-,0,I do not have access to the specific internal statistics or filtering results of the KazMMLU evaluation. The provided facts describe what KazMMLU
+154,mid,new,A,B,0,B
+155,small,old,A,-,0,The question asks for a model that learns bilingual word embeddings *without* word alignments from parallel or label-aligned non-parallel corpora for cross-language
+155,small+KG,old,A,A,1,A
+155,mid,old,A,B,0,B
+156,small,old,B,B,1,B
+156,small+KG,old,B,B,1,B
+156,mid,old,B,B,1,B
+157,small,old,C,-,0,"The provided text does not contain information about the specific paragraph-embedding dimensionality paired with 40-dimensional word embeddings in BRAVE. Therefore, I"
+157,small+KG,old,C,-,0,"The provided text only states:
+* BRAVE | designed_for | cross-language text classification
+* BRAVE | derived_from | paragraph"
+157,mid,old,C,B,0,B
+158,small,old,C,D,0,D
+158,small+KG,old,C,D,0,D
+158,mid,old,C,D,0,D
+159,small,old,C,-,0,"The provided text does not contain any information about the number of sentence pairs used to train BRAVE. Therefore, I cannot determine the correct answer based solely"
+159,small+KG,old,C,-,0,"Based on the provided facts, there is **no information** that specifies the number of sentence pairs used to train BRAVE for each language pair (English"
+159,mid,old,C,C,1,C
+160,small,old,D,-,0,"The provided text does not contain the specific information about the dimensionality of the bilingual word embeddings learned by BRAVE-S on the TED corpus. Therefore,"
+160,small+KG,old,D,-,0,"The provided text gives information about the components and evaluation of BRAVE and BRAVE-S, but it **does not explicitly state the dimensionality** of"
+160,mid,old,D,D,1,D
+161,small,old,B,B,1,B
+161,small+KG,old,B,B,1,B
+161,mid,old,B,B,1,B
+162,small,old,D,B,0,B
+162,small+KG,old,D,D,1,"The provided text gives the following relationships:
+* BRAVE | derived_from | paragraph vector embeddings
+* BRAVE-D | derived_from"
+162,mid,old,D,A,0,A
+163,small,old,B,B,1,B
+163,small+KG,old,B,B,1,B
+163,mid,old,B,B,1,B
+164,small,old,D,A,0,A
+164,small+KG,old,D,D,1,D
+164,mid,old,D,A,0,A
+165,small,old,D,D,1,D
+165,small+KG,old,D,D,1,D
+165,mid,old,D,B,0,B
+166,small,old,A,-,0,"I do not have access to the specific data or results of the extraction process for ""xLiD-Lexica."" Therefore, I cannot definitively tell"
+166,small+KG,old,A,-,0,"The provided text lists facts about various models and resources, including information about `xLiD-Lexica`.
+
+The facts related to `xLi"
+166,mid,old,A,C,0,C
+167,small,old,C,C,1,C
+167,small+KG,old,C,C,1,C
+167,mid,old,C,A,0,A
+168,small,old,D,-,0,"I do not have access to the specific details of the ""hand-annotated parallel corpus developed for RECSA."" Therefore, I cannot definitively answer how"
+168,small+KG,old,D,D,1,D
+168,mid,old,D,D,1,D
+169,small,old,B,D,0,D
+169,small+KG,old,B,B,1,B
+169,mid,old,B,C,0,C
+170,small,old,A,B,0,B
+170,small+KG,old,A,D,0,D
+170,mid,old,A,A,1,A
+171,small,old,B,-,0,"I do not have access to the specific content or metadata of the ""RECSA resource"" to determine the exact number of news articles per language. Therefore"
+171,small+KG,old,B,A,0,A
+171,mid,old,B,C,0,C
+172,small,old,C,C,1,C
+172,small+KG,old,C,C,1,C
+172,mid,old,C,C,1,C
+173,small,old,A,-,0,"I do not have access to the specific data or document you are referring to, so I cannot tell you how many human annotators verified and cleaned each"
+173,small+KG,old,A,-,0,"Based on the provided facts, there is **no information** about how many human annotators verified and cleaned each RECSA document.
+
+Therefore, I"
+173,mid,old,A,D,0,D
+174,small,old,D,D,1,D
+174,small+KG,old,D,D,1,D
+174,mid,old,D,C,0,C
+175,small,old,C,D,0,D
+175,small+KG,old,C,D,0,D
+175,mid,old,C,C,1,C
+176,small,old,D,A,0,A
+176,small+KG,old,D,A,0,A
+176,mid,old,D,A,0,A
+177,small,old,A,D,0,D
+177,small+KG,old,A,D,0,D
+177,mid,old,A,D,0,D
+178,small,old,D,-,0,"The question asks to identify the benchmark cited in a specific study (""Zero-shot prompt-based classification study"") used to compare in-context learning and"
+178,small+KG,old,D,-,0,"The question asks to identify the benchmark cited in a specific study (""Zero-shot prompt-based classification study"") used to compare in-context learning and"
+178,mid,old,D,C,0,C
+179,small,old,C,B,0,B
+179,small+KG,old,C,B,0,B
+179,mid,old,C,B,0,B
+180,small,old,C,C,1,C
+180,small+KG,old,C,-,0,"Based on the provided facts, there is **no information** that specifies the exact number of samples collected from the German Twitter dataset for the Zero-shot"
+180,mid,old,C,C,1,C
+181,small,old,D,B,0,B
+181,small+KG,old,D,B,0,B
+181,mid,old,D,A,0,A
